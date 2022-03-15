@@ -1,859 +1,859 @@
-sentence,topic,vehicle,event,option0,option1,option2,option3,human_idx,ans_idx,property
-Thomas is as _ as a lark .,Thomas,lark,is,happy,unhappy,interested,sad,0,0,happy
-The library is so quiet . It is as _ as the grave .,library,grave,is,empty,silent,grave,weak,1,1,silent
-Are you feeling ill ? You are as _ as a ghost .,You,ghost,are,dark,pale,creepy,funny,1,1,pale
-He is as _ as a barrel of monkeys .,He,monkeys,is,happy,evil,wild,funny,3,3,funny
-She was as _ as a mouse .,She,mouse,was,noisy,slow,ugly,quiet,3,3,quiet
-That baby is as _ as a kitten .,baby,kitten,is,skinny,cute,adorable,weak,1,1,cute
-The cave was as _ as night so we could not see anything .,cave,night,was,dark,cold,peaceful,light,0,0,dark
-Jack was as _ as a lark when he received a new guitar for his birthday .,Jack,lark,was,happy,fun,unhappy,sad,0,0,happy
-Please add some water to the jug . The lime juice is as _ as vinegar .,juice,vinegar,is,orange,sour,bloody,bitter,1,1,sour
-The car is as _ as a cherry .,car,cherry,is,red,black,sweet,green,0,0,red
-Her skin is as _ as the snow .,skin,snow,is,heavy,white,hard,beautiful,1,1,white
-James disliked the taste of the medicine as it was as _ as a gall .,medicine,gall,was,sharp,bitter,sweet,hard,1,1,bitter
-The water well is as _ as a bone .,well,bone,is,dry,wet,hard,cold,2,0,dry
-Peter is as _ as a bean pole .,Peter,pole,is,wooden,skinny,sick,strong,0,1,skinny
-My Grandma is as _ as the hills .,Grandma,hills,is,low,old,young,new,1,1,old
-Sanjay was as _ as a hornet when his brother broke his favourite toy truck .,Sanjay,hornet,was,super,religious,mad,happy,2,2,mad
-Molly 's face turned as _ as a tomato when she gave the wrong answer in class .,face,tomato,turned,white,green,red,yellow,2,2,red
-I was as _ as a kid at a birthday party .,I,kid,was,happy,fun,unhappy,sad,0,0,happy
-The boy who injured his leg walked as _ as a snail . We waited patiently for him .,boy,snail,walked,slow,little,quick,fast,0,0,slow
-I was as _ as ice .,I,ice,was,cool,blue,cold,hot,2,2,cold
-Jason was as _ as a peacock after winning first place in the swimming competition .,Jason,peacock,was,humble,drunk,proud,ashamed,2,2,proud
-He is as _ as a mouse .,He,mouse,is,slow,noisy,quiet,happy,2,2,quiet
-The cheetah ran as _ as lightening .,cheetah,lightening,ran,slow,fast,dangerous,loud,1,1,fast
-Mark switched off the lights . The room was as _ as night .,room,night,was,dark,loud,sound,dead,0,0,dark
-When the teacher was angry his voice was as _ as the thunder .,voice,thunder,was,loud,quiet,soft,deep,0,0,loud
-"After the ball was run over by the car , it was as _ as paper .",ball,paper,was,sharp,spherical,flat,opaque,2,2,flat
-The old lady is as _ as a baby .,lady,baby,is,innocent,weak,sexy,strong,0,1,weak
-I am as _ as a bear .,I,bear,am,brown,thirsty,hungry,sick,0,2,hungry
-Her teeth are as _ as pearls .,teeth,pearls,are,pale,white,yellow,blue,1,1,white
-My mother 's hair is as _ as a cloud .,hair,cloud,is,hard,soft,smooth,thin,1,1,soft
-The truck is as _ as an elephant .,truck,elephant,is,sized,big,little,fast,1,1,big
-My mother is as _ as an angel .,mother,angel,is,kind,slow,fast,little,0,0,kind
-the boy is running as _ as a cheetah .,boy,cheetah,running,male,slow,quickly,small,3,2,quickly
-I love snorkelling in Pulau Redang because the water is as _ as crystal .,water,crystal,is,blue,clear,fresh,pure,3,1,clear
-my husband is as _ as a mule he refuses to go to the doctor about his back .,husband,mule,is,dense,slow,poor,stubborn,3,3,stubborn
-Rahim has been as _ as a bee getting ready for school because he woke up late .,Rahim,bee,been,yellow,idle,busy,bored,2,2,busy
-Lindsey runs as _ as as sloth .,Lindsey,sloth,runs,quick,fast,hot,slow,3,3,slow
-My grandfather is eighty years old but he is still as _ as a fiddle . He exercises daily at the park .,grandfather,fiddle,is,small,quick,fast,fit,3,3,fit
-The water was as _ as glass .,water,glass,was,sharp,clean,smooth,rough,1,2,smooth
-I think my grandfather is as _ as these hills !,grandfather,hills,is,new,low,old,young,2,2,old
-He crept into the room as _ as a mouse .,He,mouse,crept,loud,small,slow,quiet,3,3,quiet
-The new smartphone is as _ as a feather . It does n't weigh a ton like the old model .,smartphone,feather,is,heavy,light,slow,fast,1,1,light
-The class was as _ as a zoo .,class,zoo,was,dull,loud,quiet,hard,1,1,loud
-My hands are as _ as ice .,hands,ice,are,cold,blue,hot,cool,0,0,cold
-Leah looked as _ as a ghost yesterday .,Leah,ghost,looked,pale,hungry,creepy,white,0,0,pale
-He is as _ as a fly buzzing around someone 's ear .,He,fly,is,annoying,noisy,happy,fun,1,0,annoying
-His anger was as _ as a burning ember .,anger,ember,was,cold,red,hot,warm,2,2,hot
-Liam jumps into the river to save the drowning cat . He is as _ as a lion .,He,lion,is,brave,old,dangerous,afraid,0,0,brave
-Christine is as _ as pie .,Christine,pie,is,hot,bitter,sweet,warm,2,2,sweet
-The girl was as _ as a lion . She fought with the robber who tried to rob her yesterday .,girl,lion,was,afraid,pretty,dangerous,brave,3,3,brave
-"John studies hard , he is as _ as an owl .",he,owl,is,happy,grey,old,wise,3,3,wise
-The wizard knew no one would see him . His magical cloak made him as _ as air .,cloak,air,made,visible,conspicuous,invisible,beautiful,2,2,invisible
-My sister is as _ as a bee preparing for her ballet performance tomorrow .,sister,bee,is,bored,busy,yellow,fun,1,1,busy
-Adam rode his bicycle and scratched his father 's car . His father was as _ as a raging bull .,father,bull,was,dangerous,angry,proud,dead,1,1,angry
-Mary is such a nice girl who is as _ as a lamb .,girl,lamb,is,gentle,rude,harsh,rough,0,0,gentle
-my grandma is as _ as an owl .,grandma,owl,is,foolish,wise,grey,sorry,1,1,wise
-The old man is as _ as an ox when he lifts the heavy box .,man,ox,is,slow,fast,strong,weak,2,2,strong
-He was as _ as a mouse as he walked down the hall .,He,mouse,was,quiet,happy,slow,loud,0,0,quiet
-he is as _ as a mouse .,he,mouse,is,slow,happy,silent,gay,2,2,silent
-His mind is as _ as a samurai 's sword .,mind,sword,is,dull,dim,clear,sharp,3,3,sharp
-Her eyes are as _ as the cloudless sky .,eyes,sky,are,brown,sunny,blue,green,2,2,blue
-madam hee is as _ as a queen because she has won a trip to japan .,hee,queen,is,unhappy,sad,happy,beautiful,2,2,happy
-"In her new dress , Paisley was as _ as a button .",Paisley,button,was,cute,special,tiny,hot,1,0,cute
-I am as _ as a fox .,I,fox,am,quick,red,slow,thirsty,3,0,quick
-Jian Chong carried the box easily . It was as _ as a feather .,box,feather,was,light,hungry,slow,dangerous,0,0,light
-Barry won the first prize in the race . He was as _ as a flash .,He,flash,was,brilliant,slow,sudden,quick,3,3,quick
-Mrs Max bought a new blouse and it felt as _ as silk .,blouse,silk,felt,smooth,rough,soft,sleek,2,0,smooth
-He was as _ as a bat .,He,bat,was,black,fly,blind,gay,0,2,blind
-The villagers always consult their headman to settle their problems and dispute because he is as _ as an owl .,headman,owl,is,wise,funny,foolish,grey,0,0,wise
-Your backpack is as _ as an elephant .,backpack,elephant,is,lightweight,heavy,light,fast,1,1,heavy
-She was as _ as a lion .,She,lion,was,wild,brave,dangerous,afraid,1,1,brave
-ramli ran as _ as lightning to get into the office .,ramli,lightning,ran,fast,big,wild,hot,0,0,fast
-You 're as _ as a button !,You,button,'re,tiny,cute,red,green,1,1,cute
-She is as _ as a toothpick .,She,toothpick,is,skinny,hot,pretty,ugly,0,0,skinny
-Mrs . Aderhold 's mind is as _ as an arrow .,mind,arrow,is,sharp,dull,broad,dim,0,0,sharp
-She is as _ as a fox .,She,fox,is,hot,quick,slow,pretty,3,1,quick
-The classroom was as _ as a tongue - tied librarian in a hybrid car .,classroom,librarian,was,quiet,loud,empty,noisy,2,0,quiet
-my love for you is as _ as the ocean .,love,ocean,is,high,liquid,shallow,deep,3,3,deep
-"After spending all day ice skating , the kids were as _ as horses .",kids,horses,were,lazy,hungry,dumb,thirsty,0,1,hungry
-She is as _ as the seabird going forth alone .,She,seabird,is,sad,pretty,happy,glad,0,0,sad
-The bathroom was as _ as a whistle .,bathroom,whistle,was,sharp,clean,foul,dirty,0,1,clean
-"When his sister jumped out from behind the door , he was so scared he was as _ as a ghost .",he,ghost,was,white,black,creepy,gay,0,0,white
-Her dress was as _ as the hawthorn buds in May .,dress,buds,was,sweet,white,blue,yellow,3,1,white
-She was as _ as a bee .,She,bee,was,busy,bored,hot,pretty,0,0,busy
-Her hands were as _ as ice after she went swimming .,hands,ice,were,cold,hot,blue,cool,0,0,cold
-"after the bath , I felt as _ as a daisy .",I,daisy,felt,blue,stale,green,fresh,3,3,fresh
-I am as _ as a bear recently awakened from hibernation .,I,bear,am,thirsty,hungry,sick,dangerous,1,1,hungry
-the baby is as _ as the moon .,baby,moon,is,little,beautiful,ugly,blue,1,1,beautiful
-his neck is as _ as giraffe .,neck,giraffe,is,short,tall,thin,long,3,1,tall
-Loshini was as _ as a cucumber when the boys teased her .,Loshini,cucumber,was,green,warm,hot,cool,0,3,cool
-My hands were as _ as ice .,hands,ice,were,hot,cool,blue,cold,3,3,cold
-Sally is as _ as pie .,Sally,pie,is,sweet,warm,bitter,sour,0,0,sweet
-the doctor was as _ as dove when she picked the baby .,doctor,dove,was,rough,gentle,graceful,harsh,1,1,gentle
-The girl was as _ as a bat without her glasses .,girl,bat,was,black,cunning,blind,hot,2,2,blind
-My new baby brother is as _ as a button .,brother,button,is,red,tiny,cute,hot,0,2,cute
-The knives in the drawer are as _ as a razor .,knives,razor,are,pointed,straight,dull,sharp,3,3,sharp
-He was as _ as pie .,He,pie,was,sour,sweet,bitter,warm,1,1,sweet
-Harvey wants a T - shirt that is as _ as a coal .,shirt,coal,is,red,brown,hot,black,3,3,black
-The house was as _ as a mouse .,house,mouse,was,loud,quiet,noisy,slow,1,1,quiet
-Jody raced to the car as _ as lightning .,Jody,lightning,raced,loud,chilling,quick,slow,1,2,quick
-The apples in the pie are as _ as honey .,apples,honey,are,sweet,crisp,gold,warm,0,0,sweet
-he was as _ as a bat in the dark room and knocked over the expensive vase .,he,bat,was,brown,black,blind,gay,2,2,blind
-Fatoumata is as _ as honey !,Fatoumata,honey,is,green,sweet,warm,bitter,1,1,sweet
-Mr and Mrs Smith 's children graduated from medical school with flying colours . They are as _ as a peacock .,They,peacock,are,colorful,proud,blue,humble,1,1,proud
-john is as _ as fox .,john,fox,is,gray,sly,drunk,nuts,0,1,sly
-I 'm as _ as a bat without my glasses .,I,bat,'m,blind,sick,brown,black,0,0,blind
-They run as _ as lightning the finish line .,They,lightning,run,slow,hard,quick,chilling,3,2,quick
-Puan Aminah 's explanation is as _ as crystal . All the pupils understand her lessons .,explanation,crystal,is,unclear,pure,opaque,clear,1,3,clear
-Molly 's eyes were as _ as the sun .,eyes,sun,were,hot,bright,warm,green,1,1,bright
-The librarian was as _ as candy .,librarian,candy,was,bitter,pink,sweet,sour,2,2,sweet
-His shirt was as _ as coal .,shirt,coal,was,hot,brown,cold,black,3,3,black
-"Whenever I meet any difficulties , I will seek the advice from my class teacher . She is as _ as an owl .",She,owl,is,foolish,wise,pretty,cunning,1,1,wise
-My granddad drives as _ as a snail .,granddad,snail,drives,quick,fast,slow,small,2,2,slow
-He drew a line as _ as an arrow .,He,arrow,drew,pointed,sharp,straight,crooked,2,2,straight
-the kitten 's teeth were as _ as knives .,teeth,knives,were,wooden,sharp,dull,pointed,1,1,sharp
-The judges gave that gymnast the highest score because her movements were flawless and as _ as a swan .,movements,swan,were,graceful,awkward,black,clumsy,0,0,graceful
-"Ever since he started practising ' tai chi ' , Mr Tan has been as _ as a fiddle .",Tan,fiddle,been,fit,slow,beautiful,fast,0,0,fit
-He was scared so much he was as _ as a ghost .,he,ghost,was,gay,holy,white,black,2,2,white
-I could not lift the bag because it was as _ as an elephant .,it,elephant,was,fast,slow,light,heavy,3,3,heavy
-She 's as _ as a horse .,She,horse,'s,cunning,ugly,hot,stubborn,3,3,stubborn
-The old man was as _ as a bat .,man,bat,was,black,fast,blind,gay,2,2,blind
-Toa is as _ as a strong chicken .,Toa,chicken,is,coward,cold,afraid,brave,3,3,brave
-This box is as _ as lead . Let me help you carry it .,box,lead,is,heavy,dense,dangerous,light,0,0,heavy
-Her face turned as _ as a rose out of embarrassment after falling off her bicycle just now .,face,rose,turned,white,yellow,red,pale,2,2,red
-He runs as _ as a deer .,He,deer,runs,fast,old,little,slow,0,0,fast
-The traffic is moving as _ as a snail at the toll plaza .,traffic,snail,moving,fast,quick,slow,busy,2,2,slow
-She is as _ as a blue whale .,She,whale,is,ignorant,smart,dangerous,stupid,1,1,smart
-Your backpack is as _ as a feather .,backpack,feather,is,gay,bright,stupid,light,3,3,light
-She is as _ as a fiddle because she exercises every day .,She,fiddle,is,drunk,large,fit,happy,2,2,fit
-"Charlotte is as _ as a mouse . She is frightened of loud noises , large people and just about anything in general .",Charlotte,mouse,is,slow,shy,stupid,brave,1,1,shy
-The baby was as _ as a picture .,baby,picture,was,fast,slow,pretty,like,2,2,pretty
-The Shokpa 's head is as _ as a rock .,head,rock,is,heavy,hollow,solid,small,3,2,solid
-The old man walks as _ as a snail .,man,snail,walks,fast,slow,young,quick,1,1,slow
-"when we went to the water theme park , we were as _ as a lark .",we,lark,were,sad,unhappy,happy,fun,2,2,happy
-His nose was as _ as a ripe strawberry .,nose,strawberry,was,pink,green,black,red,3,3,red
-My sister was as _ as a bee preparing for her ballet performance tomorrow . She had a lot to practice .,sister,bee,was,idle,busy,bored,fun,1,1,busy
-The girl is as _ as a mouse . She likes to keep to herself .,girl,mouse,is,quiet,noisy,slow,loud,0,0,quiet
-my friend is as _ as a tortoise .,friend,tortoise,is,cunning,stupid,beloved,slow,3,0,cunning
-The overcooked steak was as _ as a rock .,steak,rock,was,hard,easy,white,soft,0,0,hard
-the child is as _ as a kitten .,child,kitten,is,playful,curious,fluffy,adorable,2,0,playful
-The little baby was as _ as candy .,baby,candy,was,pink,innocent,bitter,sweet,3,3,sweet
-My sister is as _ as a giraffe !,sister,giraffe,is,tall,little,big,short,0,0,tall
-there was no more water in the lake . it was as _ as bone .,lake,bone,was,hard,dry,rigid,wet,1,1,dry
-Kozmy is as _ as gold .,Kozmy,gold,is,pure,bad,good,evil,0,2,good
-The football player was as _ as an ox as he tackled the quarterback .,player,ox,was,fast,slow,weak,strong,3,3,strong
-My grandfather is suffering from cancer and he is now as _ as a rake .,grandfather,rake,is,sharp,fat,thick,thin,3,3,thin
-she woke in the morning as _ as daisy .,she,daisy,woke,green,fresh,pretty,ripe,1,1,fresh
-Mike Kennedy 's coffee was as _ as the snow that was falling outside .,coffee,snow,was,cold,hot,deep,bitter,0,0,cold
-The mosquito 's bite was as _ as a tack .,bite,tack,was,hard,sharp,pointed,dull,1,1,sharp
-"Look at him , he has recovered from a fever and looks as _ as day .",he,day,looks,ancient,present,new,familiar,2,2,new
-my grandmother is as _ as honey .,grandmother,honey,is,warm,sweet,bitter,sour,1,1,sweet
-She is as _ as a baby . She has no idea how to go on from here .,She,baby,is,innocent,messy,cunning,helpless,0,3,helpless
-the man is as _ as a mule .,man,mule,is,male,sterile,stubborn,dense,2,2,stubborn
-Mr wong is as _ as lion .,wong,lion,is,afraid,wild,coward,brave,3,3,brave
-The sidewalks were as _ as glass freshly cleaned for the birthday party .,sidewalks,glass,were,fragile,sticky,opaque,slippery,3,3,slippery
-I am as _ as a wolf . I can finish all the food on the table .,I,wolf,am,sick,thirsty,hungry,wild,2,2,hungry
-her hair is as _ as night .,hair,night,is,smooth,thin,brown,black,3,3,black
-she is as _ as a lamb .,she,lamb,is,rude,rough,gentle,harsh,2,2,gentle
-Aleesa won first place in the dance competition . She danced as _ as a swan .,She,swan,danced,awkward,firm,graceful,red,2,2,graceful
-Jason is as _ as an owl .,Jason,owl,is,aged,successful,wise,married,2,2,wise
-The classroom was as _ as an oven when the air conditioning broke .,classroom,oven,was,chilled,hot,cold,freezing,1,1,hot
-Mr . Ray is as _ as a cheetah .,Ray,cheetah,is,friendly,fast,religious,cold,1,1,fast
-He was as _ as a six - foot - three - inch tree .,He,tree,was,tall,large,small,short,0,0,tall
-she was as _ as a feather .,she,feather,was,happy,dead,gay,light,3,3,light
-Mrs . Cole was reading a book which is as _ as an elephant .,book,elephant,is,sized,big,small,little,1,1,big
-my mother is as _ as a bee .,mother,bee,is,free,bored,busy,idle,2,2,busy
-Kamal can climb up and down easily and quickly . He is as _ as a monkey .,He,monkey,is,cunning,playful,agile,happy,0,2,agile
-I am as _ as a wolf because I have not eaten anything since morning .,I,wolf,am,thirsty,dangerous,sick,hungry,3,3,hungry
-Even though you are as _ as a lion you must be careful and do not walk on a lonely road .,you,lion,are,afraid,wild,brave,dangerous,2,2,brave
-Tonya is as _ as sugar .,Tonya,sugar,is,bitter,sour,sweet,hot,2,2,sweet
-She was as _ as a toothpick .,She,toothpick,was,hot,thick,thin,fat,2,2,thin
-Chui Ling 's brother is as _ as a kitten . He tears the newspapers into pieces and glues them onto her money box .,brother,kitten,is,fluffy,adorable,playful,angered,2,2,playful
-Her heart was as _ as coal .,heart,coal,was,brown,red,black,pure,2,2,black
-The pencil is as _ as a feather .,pencil,feather,is,heavy,cold,hot,light,3,3,light
-"Although Kai Ren and his twin brother look as _ as two peas , their characters are different .",brother,peas,look,quick,alike,important,good,1,1,alike
-The paper is as _ as a feather .,paper,feather,is,reflective,light,sweet,quick,1,1,light
-The servant is as _ as a dog to his master .,servant,dog,is,loyal,faithful,senior,polite,0,1,faithful
-harry is as _ as an ox .,harry,ox,is,fast,strong,weak,slow,1,1,strong
-Everyone heard his message because his voice was as _ as thunder .,voice,thunder,was,low,loud,soft,quiet,1,1,loud
-"Without his spectacles , Abu is as _ as a bat .",Abu,bat,is,black,blind,brown,evil,1,1,blind
-Freshly washed sheets are as _ as untouched water .,sheets,water,are,transparent,soft,rough,smooth,3,3,smooth
-He is as _ as a rail .,He,rail,is,thick,drunk,thin,fat,2,2,thin
-The toddler was running around as _ as a bee .,toddler,bee,running,messy,yellow,idle,busy,0,3,busy
-This house is as _ as a whistle .,house,whistle,is,sharp,public,dirty,clean,0,3,clean
-Her mom is as _ as sugar .,mom,sugar,is,bitter,sour,sweet,pretty,2,2,sweet
-Mrs Ong goes to the market every Saturday morning at seven o'clock as _ as clockwork .,Ong,clockwork,goes,irregular,regular,mechanical,dangerous,1,1,regular
-I am as _ as a bear . Can we have our dinner now ?,I,bear,am,polar,sick,hungry,dangerous,2,2,hungry
-The floor is as _ as a whistle . Sheila just mopped it .,floor,whistle,is,dirty,sharp,flat,clean,3,3,clean
-"Since Mom has two jobs , she is always as _ as a bee .",Mom,bee,is,bored,busy,idle,yellow,1,1,busy
-He is as _ as a lion .,He,lion,is,afraid,coward,dangerous,brave,3,3,brave
-Kolton 's trick or treat bag was as _ as a bag of rocks .,bag,rocks,was,dense,heavy,light,lightweight,1,1,heavy
-She is as _ as a toothpick .,She,toothpick,is,hot,thin,fat,thick,1,1,thin
-They are as _ as night and day .,They,day,are,like,different,alike,normal,2,1,different
-Santa was as _ as a mouse as he slid down the chimney .,Santa,mouse,was,slow,noisy,loud,quiet,3,3,quiet
-The fire was as _ as a crackling fire .,fire,fire,was,hot,cool,warm,heavy,2,2,warm
-The pupils are as _ as bees preparing for tomorrow 's event .,pupils,bees,are,idle,busy,bored,alive,1,1,busy
-sue got up at and she was as _ as a daisy .,she,daisy,was,fresh,stale,ripe,rotten,0,0,fresh
-Mr Brown will not change his mind because he is as _ as a mule .,he,mule,is,poor,dense,slow,stubborn,3,3,stubborn
-"nora won't change her decision , she is as _ as a mule .",she,mule,is,dense,stubborn,hot,ugly,1,1,stubborn
-Rania tripped and fell while performing on her school play . She turned as _ as a beet as she felt embarrassed .,Rania,beet,turned,red,green,white,brown,0,0,red
-We do n't really like her because she is as _ as a peacock .,she,peacock,is,proud,humble,blue,ashamed,0,0,proud
-He is as _ as a cat .,He,cat,is,lazy,thirsty,slow,quick,0,3,quick
-my hands are as _ as ice .,hands,ice,are,hot,cool,cold,blue,2,2,cold
-her hair is as _ as silk .,hair,silk,is,smooth,sleek,soft,rough,2,0,smooth
-my throat is as _ as a bone .,throat,bone,is,hollow,dry,hard,wet,1,1,dry
-the warrior is as _ as a lion .,warrior,lion,is,coward,brave,dangerous,afraid,1,1,brave
-He was as _ as a bull .,He,bull,was,strong,top,happy,weak,0,0,strong
-"when she dances , she is as _ as a swan .",she,swan,is,clumsy,awkward,graceful,cunning,2,2,graceful
-Her eyes were as _ as the sky and as deep as the sea !,eyes,sky,were,red,green,blue,brown,2,2,blue
-The ballet dancer was as _ as a swan . Everyone praised her after the performance .,dancer,swan,was,clumsy,awkward,graceful,female,2,2,graceful
-"Without my glasses , I am as _ as a bat .",I,bat,am,blind,brown,sick,black,0,0,blind
-The woman was as _ as a puppy .,woman,puppy,was,energetic,female,soft,fluffy,3,0,energetic
-my sister is as _ as sugar .,sister,sugar,is,sour,sweet,dry,bitter,1,1,sweet
-I am as _ as a wolf I can finish all the food .,I,wolf,am,hungry,sick,thirsty,old,0,0,hungry
-My best friend is as _ as a dog .,friend,dog,is,friendly,loyal,faithful,hot,1,1,loyal
-Is your brother eating enough food ? He is as _ as a rake .,He,rake,is,thick,fat,sharp,thin,3,3,thin
-the sunset at the beach is as _ as rainbow .,sunset,rainbow,is,hideous,romantic,cloudy,beautiful,3,3,beautiful
-Jenny was as _ as a lark when she received a new bicycle for her birthday .,Jenny,lark,was,happy,sad,beautiful,unhappy,0,0,happy
-The children were as _ as mice .,children,mice,were,loud,noisy,innocent,quiet,3,3,quiet
-Your eyes are as _ as the sky .,eyes,sky,are,blue,sunny,green,brown,0,0,blue
-he is as _ as ox .,he,ox,is,strong,weak,fast,slow,0,0,strong
-You were as _ as a lion .,You,lion,were,afraid,wild,dangerous,brave,3,3,brave
-John is as _ as a church mouse He is not able to make ends meets .,John,mouse,is,small,dead,poor,rich,2,2,poor
-The night is as _ as a sharp sword .,night,sword,is,hot,black,cold,chilling,3,2,cold
-Ted was as _ as a cat with a long tail in a room full of rocking chairs .,Ted,cat,was,hungry,lazy,thirsty,nervous,1,3,nervous
-"Without his spectacles , my grandfather is as _ as a bat .",grandfather,bat,is,brown,fast,black,blind,3,3,blind
-Codie is as _ as a skyscraper .,Codie,skyscraper,is,ugly,yellow,short,tall,3,3,tall
-Mazlan is as _ as a bat without his eyeglasses .,Mazlan,bat,is,blind,yellow,blue,black,0,0,blind
-The diamond is as _ as the sun .,diamond,sun,is,beautiful,shiny,dull,legendary,3,1,shiny
-The instructions were as _ as mud .,instructions,mud,were,unclear,deep,clear,free,0,2,clear
-Ali always knocks his head and falls down . He is as _ as a bear .,He,bear,is,dangerous,happy,clumsy,gay,2,2,clumsy
-Her hair is as _ as silk .,hair,silk,is,rough,sleek,soft,smooth,3,3,smooth
-"Without his glasses , the man was as _ as a bat .",man,bat,was,blind,gay,black,fast,0,0,blind
-She is as _ as a swan .,She,swan,is,graceful,clumsy,awkward,solitary,0,0,graceful
-"Her lines of poetry are as _ as flowers , as strong as vines .",poetry,flowers,are,green,bitter,sweet,pink,3,2,sweet
-She was as _ as a bee .,She,bee,was,hot,bored,busy,pretty,2,2,busy
-He is as _ as a Gorilla .,He,Gorilla,is,male,gay,hairy,bald,2,2,hairy
-Her smile was as _ as the sun .,smile,sun,was,bright,hot,catching,warm,0,0,bright
-Abigail is as _ as a giraffe .,Abigail,giraffe,is,short,tall,beautiful,old,1,1,tall
-She is too nervous to talk to her new classmates . She is as _ as squirrel .,She,squirrel,is,confident,pretty,hot,shy,3,3,shy
-This book is as _ as a feather .,book,feather,is,light,ugly,confident,hot,0,0,light
-"Since Mom has two jobs , she is always as _ as a bee .",Mom,bee,is,idle,yellow,bored,busy,3,3,busy
-The frosting on the cake is as _ as my baby sister .,frosting,sister,is,dry,bitter,sweet,sour,2,2,sweet
-These tacos are as _ as a hundred ghost peppers !,tacos,peppers,are,hot,red,cold,spice,3,0,hot
-Hui Xian scored the highest mark in English . She was as _ as a peacock .,She,peacock,was,proud,ashamed,humble,ugly,0,0,proud
-The sea water is as _ as crystal because I can see the fishes in it .,water,crystal,is,pure,fresh,deep,clear,0,3,clear
-The cookies were so overcooked that they were as _ as rocks .,cookies,rocks,were,solid,hard,rigid,soft,1,1,hard
-The lightbulb is as _ as the sun .,lightbulb,sun,is,hot,dark,bright,small,2,2,bright
-The dog was as _ as an elephant . .,dog,elephant,was,big,little,fast,old,0,0,big
-Ai Lee can carry the books easily because they are as _ as a feather .,books,feather,are,hot,slow,light,fast,2,2,light
-"In this desert , the land is as _ as brick .",land,brick,is,hard,flat,solid,soft,0,0,hard
-the room was as _ as night so i could n't see anything .,room,night,was,peaceful,empty,light,dark,3,3,dark
-He is as _ as a barrel of monkeys .,He,monkeys,is,evil,wild,happy,funny,3,3,funny
-It is snowing outside . My hands are as _ as ice .,hands,ice,are,hot,cool,cold,blue,2,2,cold
-"Without my glasses , I 'm as _ as a bat .",I,bat,'m,brown,blind,black,sick,1,1,blind
-the cricketer was as _ as a cat to catch the ball .,cricketer,cat,was,slow,thirsty,quick,cunning,3,2,quick
-"She has learned gymnastics , and is as _ as a monkey .",She,monkey,is,playful,cunning,beautiful,agile,0,3,agile
-he cake which mrs raju baked was as _ as honey .,cake,honey,was,sweet,green,bitter,warm,0,0,sweet
-He is as _ as a giraffe .,He,giraffe,is,tall,slow,short,old,0,0,tall
-She is as _ as a tack .,She,tack,is,pointed,dull,cunning,sharp,0,3,sharp
-The coffee was as _ as lava .,coffee,lava,was,red,cold,bitter,hot,3,3,hot
-The cat is as _ as the night sky .,cat,sky,is,clear,lazy,wild,black,1,3,black
-Mother covered my feet with a blanket because they were as _ as ice .,feet,ice,were,blue,hot,cool,cold,3,3,cold
-The workers are as _ as a bee complete the building .,workers,bee,are,busy,lazy,idle,bored,0,0,busy
-The skater was as _ as a swan as she glided across the ice .,skater,swan,was,clumsy,graceful,athletic,awkward,1,1,graceful
-robin can run as _ as cheetah .,robin,cheetah,run,beautiful,tall,fast,pretty,2,2,fast
-this fruit is as _ as honey .,fruit,honey,is,sweet,warm,bitter,sour,0,0,sweet
-I was as _ as a turkey after my Thanksgiving meal .,I,turkey,was,delicious,stuffed,warm,ripe,1,1,stuffed
-The burglars could not break up the safe because it is as _ as a rock .,safe,rock,is,hollow,solid,secure,hard,1,1,solid
-My mouth is as _ as a desert .,mouth,desert,is,wet,dry,barren,hot,1,1,dry
-I 'm sweating now because the weather is as _ as an oven .,weather,oven,is,mild,hot,warm,cold,1,1,hot
-The teacher 's explanation was as _ as mud .,explanation,mud,was,free,clear,unclear,deep,2,1,clear
-You are as _ as a lion .,You,lion,are,brave,dangerous,coward,afraid,0,0,brave
-The soldiers was as _ as lions hen they fought the enemy .,soldiers,hen,was,fierce,evil,male,dangerous,0,0,fierce
-Mary said the medicine was as _ as candy .,medicine,candy,was,sweet,pink,bitter,dry,0,0,sweet
-the laundry bag was as _ as elephant .,bag,elephant,was,big,little,light,sized,0,0,big
-"Even though Lily eats a lot , she is still as _ as a rake .",she,rake,is,thin,fat,hot,thick,0,0,thin
-This contract is as _ as the ground we stand on .,contract,ground,is,flat,solid,hollow,hard,1,1,solid
-jessica is as _ as a frog .,jessica,frog,is,attractive,ugly,pretty,beautiful,1,1,ugly
-The shells I collected by the seashore are as _ as crystal .,shells,crystal,are,clear,pure,unclear,green,1,0,clear
-The groundhog on the side of the road was as _ as a doornail .,groundhog,doornail,was,alive,slow,extinct,dead,0,3,dead
-The river is popular with tourist because of the water . It is as _ as crystal .,river,crystal,is,cool,clear,pure,opaque,2,1,clear
-David 's room was as _ as a pair of brand new shoes .,room,shoes,was,dirty,clean,square,empty,1,1,clean
-The pencil is as _ as a feather .,pencil,feather,is,light,empty,expensive,open,0,0,light
-I slept as _ as a bug in a rug in my new bed .,I,bug,slept,there,close,nice,fun,2,1,close
-Chinese New Year is around the corner . I am as _ as a king because I can get ' Angpau ' from my parents .,I,king,am,happy,sad,rich,unhappy,2,0,happy
-Jane was as _ as a painting .,Jane,painting,was,rich,sad,unhappy,pretty,3,3,pretty
-johan runs as _ as lightning to the toilet after he had some spicy gravy .,johan,lightning,runs,powerful,fast,high,first,1,1,fast
-the surface of the stool was as _ as rock .,surface,rock,was,hard,heavy,soft,solid,3,0,hard
-The old man walks as _ as a tortoise .,man,tortoise,walks,young,little,slow,quick,2,2,slow
-That naughty boy who was as _ as a monkey loved climbing trees .,boy,monkey,was,cunning,playful,male,dense,1,1,playful
-"Although she was really frustrated with the class 's grades , she stayed as _ as a gentle breeze .",she,breeze,stayed,light,soft,cool,calm,3,3,calm
-The dinner was as _ as a five star restaurant .,dinner,restaurant,was,romantic,delicious,fun,expensive,1,1,delicious
-Harry always gets good marks in the examinations and he is as _ as an owl .,he,owl,is,foolish,wise,happy,drunk,1,1,wise
-I 'm shivering because the weather is as _ as ice .,weather,ice,is,cold,warm,hot,cool,0,0,cold
-He was as _ as a beaver .,He,beaver,was,bored,busy,happy,idle,3,1,busy
-My dog is as _ as a mouse .,dog,mouse,is,slow,quiet,loud,noisy,1,1,quiet
-He is as _ as a skyscraper .,He,skyscraper,is,drunk,tall,old,short,1,1,tall
-I am so thirsty that my throat is as _ as a bone .,throat,bone,is,hollow,hard,dry,wet,2,2,dry
-Mom 's stare was as _ as ice .,stare,ice,was,hot,blue,cool,cold,3,3,cold
-The handshake felt as _ as her mother 's laundry .,handshake,laundry,felt,friendly,warm,cool,soft,1,1,warm
-I am as _ as a hornet .,I,hornet,am,angry,thirsty,sick,hungry,0,0,angry
-she was as _ as a scarecrow in that outfit .,she,scarecrow,was,pretty,beautiful,attractive,ugly,3,3,ugly
-Abu is as _ as a mouse because he is afraid of everything .,Abu,mouse,is,slow,evil,shy,brave,2,2,shy
-Ravi was as _ as a cucumber delivering his speech to a full house audience .,Ravi,cucumber,was,warm,cool,hot,white,3,1,cool
-That was as _ as a haunted house .,That,house,was,scary,expensive,bad,white,0,0,scary
-Tim could see the fishes and corals in Redang Island because the sea water was as _ as crystal .,water,crystal,was,clear,fresh,pure,deep,2,0,clear
-Our football team 's running back is as _ as a cheetah .,team,cheetah,is,hot,fast,deep,dangerous,1,1,fast
-He was as _ as a beanstalk .,He,beanstalk,was,drunk,thin,thick,fat,1,1,thin
-Mom was as _ as a bee as she prepared for the holiday party .,Mom,bee,was,yellow,bored,busy,idle,2,2,busy
-The ballerina is as _ as a swan .,ballerina,swan,is,clumsy,graceful,awkward,tall,1,1,graceful
-Samantha is shy . Her cheeks turn as _ as a cherry when we speak to her .,cheeks,cherry,turn,green,pink,red,black,2,2,red
-Bill was as _ as a snail .,Bill,snail,was,quick,fast,slow,rapid,2,2,slow
-david runs as _ as snail .,david,snail,runs,slow,quick,alive,fast,0,0,slow
-I am as _ as a bear recently awaken from hibernation .,I,bear,am,hungry,dangerous,sick,thirsty,0,0,hungry
-This bagel is as _ as a rock .,bagel,rock,is,easy,white,soft,hard,3,3,hard
-His eyes are as _ as the ocean .,eyes,ocean,are,green,red,brown,blue,3,3,blue
-he will never settle down . he likes travelling from place to place as _ as a bird .,he,bird,travelling,dead,happy,free,gay,2,2,free
-"She always apply lotion on her hands , therefore her hands are as _ as silk .",hands,silk,are,sleek,soft,hard,smooth,3,1,soft
-the sprinter is as _ as a deer . i think he stands a good chance of winning .,sprinter,deer,is,swift,fast,dead,beautiful,1,0,swift
-She is as _ as a May morning .,She,morning,is,tender,red,young,french,0,0,tender
-Her smile is as _ as the sun .,smile,sun,is,shining,hot,warm,bright,3,3,bright
-Talking to him was as _ as eating a hamburger with freshly painted nails .,Talking,hamburger,was,frustrating,delicious,hot,noisy,1,0,frustrating
-the boy is as _ as giraffe .,boy,giraffe,is,tall,small,old,short,0,0,tall
-The toddler is as _ as a kitten . He keeps running and playing with his brother .,toddler,kitten,is,adorable,playful,cunning,fluffy,1,1,playful
-The chicken wings were overcooked in oven for 30 minutes . They looked as _ as coal .,chicken,coal,looked,small,fluffy,black,weak,2,2,black
-paan is as _ as a king because he has won a trip to australia .,paan,king,is,sad,rich,happy,unhappy,1,2,happy
-I could not see anything in the room because it is as _ as night .,room,night,is,empty,small,dark,peaceful,2,2,dark
-The bruise on George 's foot felt as _ as an elephant .,bruise,elephant,felt,big,good,sized,deep,0,0,big
-The student was as _ as a bee .,student,bee,was,busy,bored,idle,lazy,0,0,busy
-john runs as _ as a cheetah .,john,cheetah,runs,small,young,fast,smart,2,2,fast
-The witch has a horrible looking . She is as _ as a toad .,She,toad,is,medical,idle,rag,ugly,3,3,ugly
-She is a ballet dancer who can dance as _ as a swan .,dancer,swan,dance,graceful,sexy,beautiful,clumsy,0,0,graceful
-this child is as _ as a feather .,child,feather,is,sexy,light,romantic,mute,1,1,light
-everyone praised gina . she looked as _ as a picture .,she,picture,looked,blurred,pretty,sexy,expensive,1,1,pretty
-"Although my grandfather is already 70 years old , he is still as _ as a fiddle .",he,fiddle,is,pretty,fit,blue,sexy,1,1,fit
-Pak Mali did not complete his education but he is as _ as an owl .,he,owl,is,drunk,grey,foolish,wise,3,3,wise
-man kit lifted the box easily . it was as _ as a feather .,it,feather,was,old,dead,happy,light,3,3,light
-The cat is as _ as a tiger .,cat,tiger,is,dangerous,lazy,fierce,thirsty,2,2,fierce
-The test is as _ as ABC .,test,ABC,is,easy,hard,quick,final,3,0,easy
-Jing Xuan is as _ as a mule . He never listens to others ' advice .,Xuan,mule,is,expensive,fun,dense,stubborn,3,3,stubborn
-The fire was as _ as the sun .,fire,sun,was,bright,warm,cold,hot,3,3,hot
-The box is as _ as a feather so he can carry it easily .,box,feather,is,warm,open,heavy,light,3,3,light
-He is as _ as a stick .,He,stick,is,thin,thick,fat,sharp,0,0,thin
-the soap is as _ as an eel .,soap,eel,is,sticky,ugly,opaque,slippery,3,3,slippery
-My brother is as _ as a pig He does not want to help me with the housework .,brother,pig,is,productive,cunning,active,lazy,3,3,lazy
-The twins will be fine camping out in the woods . They are as _ as nails .,They,nails,are,sharp,tough,soft,weak,0,1,tough
-the coins were shinning as _ as sun .,coins,sun,shinning,brightly,red,sharp,white,0,0,brightly
-He is as _ as a fox .,He,fox,is,quick,happy,slow,red,3,0,quick
-The cupcake was as _ as the Sahara Desert .,cupcake,Desert,was,wet,desert,hot,dry,3,3,dry
-His mouth was as _ as a knife .,mouth,knife,was,dry,pink,dull,sharp,3,3,sharp
-You can be as _ as a dog .,You,dog,be,sad,unhappy,fun,happy,3,3,happy
-The bread was as _ as a rock .,bread,rock,was,white,flat,soft,hard,3,3,hard
-"You know how in "" Rocky "" he prepares for the fight by punching sides of raw beef ? Well , yesterday it was as _ as that meat locker he was in .",yesterday,locker,was,metal,cold,open,hot,1,1,cold
-The night is as _ as a sharp sword .,night,sword,is,chilling,cold,hot,black,0,1,cold
-ahmed has been working hard to finish his homework he was as _ as bee .,he,bee,was,yellow,happy,bored,busy,3,3,busy
-She was as _ as a button .,She,button,was,ugly,tiny,beautiful,cute,3,3,cute
-alia always falls down . she is as _ as a bear .,she,bear,is,beautiful,dangerous,clumsy,ugly,2,2,clumsy
-Steve turned as _ as a ghost when his father caught him ! .,Steve,ghost,turned,hungry,black,funny,white,3,3,white
-He is as _ as a fox .,He,fox,is,sly,gray,drunk,gay,1,0,sly
-My mom was as _ as a kid on Christmas morning when we got a pool .,mom,kid,was,curious,fun,old,excited,3,3,excited
-John is as _ as a horse .,John,horse,is,drunk,dead,thirsty,hungry,2,3,hungry
-Bowen is as _ as a dragon .,Bowen,dragon,is,bully,back,pale,mean,0,3,mean
-The dog was as _ as coal .,dog,coal,was,white,brown,black,hot,2,2,black
-"His bike is so new , it is as _ as a twinkling star .",bike,star,is,shiny,fun,powerful,dull,0,0,shiny
-The thief was as _ as a fox .,thief,fox,was,cunning,gray,common,thief,0,0,cunning
-The dog 's eyes were as _ as coal .,eyes,coal,were,black,cold,green,hot,0,0,black
-His face was as _ as a lobster after spending the day at the beach .,face,lobster,was,pale,white,round,red,3,3,red
-Zahim is as _ as a peacock when he is announced as the champion for the game .,Zahim,champion,is,ashamed,proud,competitive,humble,1,1,proud
-The man turned as _ as a ghost when his father caught him stealing from his wallet .,man,ghost,turned,black,funny,white,young,2,2,white
-Ravi ran as _ as lightning and emerged as champion in the marathon .,Ravi,champion,ran,famous,big,fast,slow,2,2,fast
-the gymnast was as _ as a swan . her movements were flawless .,gymnast,swan,was,athletic,graceful,female,clumsy,1,1,graceful
-"The wind blew as _ as ice across my face as I rang Mrs . Goodman 's doorbell , and after what seemed like forever , the door finally opened .",wind,ice,blew,cool,blue,hot,cold,3,3,cold
-he is as _ as a feather .,he,feather,is,hot,free,cool,light,3,3,light
-Her hair was as _ as silk .,hair,silk,was,hard,soft,smooth,thin,2,1,soft
-Zane could answer all the questions during the examination because they were as _ as ABC .,questions,ABC,were,quick,easy,difficult,hard,21,1,easy
-She is as _ as a picture .,She,picture,is,bad,big,pretty,quick,2,2,pretty
-"with all her activities , she 's always as _ as a bee .",she,bee,'s,idle,hot,bored,busy,3,3,busy
-His punches were as _ as lightning and caught his opponent by surprise .,punches,lightning,were,hot,heavy,quick,slow,1,2,quick
-"During the house fire , my Dad was as _ as a lion .",Dad,lion,was,dangerous,wild,brave,afraid,2,2,brave
-The football player is as _ as a cheetah .,player,cheetah,is,wild,dangerous,fast,afraid,2,2,fast
-Her hair was as _ as coal .,hair,coal,was,smooth,black,hot,cold,1,1,black
-My friends and I sold our old toys and donated the money to an old man who was as _ as a church mouse .,man,mouse,was,small,fast,rich,poor,3,3,poor
-i was amazed seeing danial pushing the broken down mini-van away from the road he is as _ as ox .,he,ox,is,fast,strong,slow,weak,1,1,strong
-There was a long queue in the post office and it was moving very slowly . There was only one officer serving and he was as _ as a snail .,he,snail,was,quick,slow,fast,dead,1,1,slow
-Johnny was as _ as lightning .,Johnny,lightning,was,hot,quick,slow,dead,3,1,quick
-this boy is as _ as a turtle .,boy,turtle,is,fast,quick,slow,stupid,2,2,slow
-The wooden table is as _ as an elephant . It needs four men to lift it up .,table,elephant,is,heavy,flat,light,fast,0,0,heavy
-Mrs . Reale 's cheeks were as _ as tomatoes when she was embarrassed .,cheeks,tomatoes,were,red,pink,green,flushed,3,0,red
-i did not get enough sleep last night . i am as _ as a koala .,i,koala,am,sick,thirsty,sleepy,hungry,2,2,sleepy
-He ca n't see anything without his glasses . He is as _ as a bat .,He,bat,is,gay,blind,drunk,black,1,1,blind
-I get Ben to help me move some of this heavy furniture because he is as _ as an ox .,he,ox,is,old,slow,weak,strong,3,3,strong
-Grady raced to the car as _ as lightning .,Grady,lightning,raced,quick,loud,drunk,slow,2,0,quick
-Anusha is as _ as a peacock She is always looking into the mirror .,Anusha,peacock,is,vain,yellow,modest,white,0,0,vain
-Learning to bake a cake is as _ as ABC .,Learning,ABC,is,quick,easy,important,hard,1,1,easy
-He was as _ as a cucumber . .,He,cucumber,was,warm,cool,gay,hot,1,1,cool
-The candy is as _ as a rock .,candy,rock,is,easy,soft,white,hard,3,3,hard
-His hair was as _ as a basket of oranges .,hair,basket,was,light,dark,bright,dull,2,2,bright
-The clock struck midnight and the sky was as _ as ink .,sky,ink,was,high,clear,black,red,2,2,black
-"When Brandon 's little brother stepped on his cape and ripped it , Brandon was as _ as a hornet .",Brandon,hornet,was,angry,hot,dangerous,cool,0,0,angry
-my teacher is as _ as a clown .,teacher,clown,is,helpful,silly,funny,fun,2,2,funny
-The twins Peter and Jason are as _ as two peas They are twins .,twins,peas,are,brown,identical,alike,sentimental,2,2,alike
-He was as _ as a duck .,He,duck,was,dead,lame,convincing,cool,1,1,lame
-The bruise on George 's foot felt as _ as the ocean .,bruise,ocean,felt,soft,purple,red,blue,3,3,blue
-Casey is as _ as a cupcake .,Casey,cupcake,is,hot,positive,bitter,sweet,3,3,sweet
-They are as _ as night and day .,They,day,are,normal,alike,different,like,2,2,different
-The lake is as _ as glass right now .,lake,glass,is,sharp,clear,small,green,1,1,clear
-the night was as _ as coal .,night,coal,was,black,hot,brown,cold,0,0,black
-The woodcutter 's eyes were as _ as the moon when he saw the hidden treasure in the cave .,eyes,moon,were,bright,full,green,dark,0,0,bright
-That car is as _ as a cherry .,car,cherry,is,sweet,green,red,black,2,2,red
-The boy was as _ as a rocket as he sped by on his bicycle .,boy,rocket,was,good,slow,dangerous,fast,3,3,fast
-The streetlights were as _ as stars .,streetlights,stars,were,reflective,dark,bright,dull,2,2,bright
-Her temper was as _ as a bomb .,temper,bomb,was,explosive,destructive,dangerous,dead,0,0,explosive
-Jan dove into the water as quickly and as _ as a seal .,Jan,seal,dove,dead,destructive,dangerous,effortlessly,3,3,effortlessly
-The English teacher 's explanation was as _ as mud .,explanation,mud,was,free,deep,unclear,clear,2,3,clear
-The girl was as _ as a lamb .,girl,lamb,was,rough,gentle,harsh,rude,1,1,gentle
-the exam was as _ as a piece of cake .,exam,cake,was,hard,quick,easy,fun,2,2,easy
-We should as Lina for her advice as she is as _ as an owl .,she,owl,is,cunning,pretty,hot,wise,3,3,wise
-He is as _ as a fox .,He,fox,is,smart,stupid,bright,gay,0,0,smart
-I 'm as _ as a bear that just work up from its winter sleep .,I,bear,'m,black,sleepy,sick,polar,0,1,sleepy
-Her hands were as _ as ice after the hayride .,hands,ice,were,cool,blue,hot,cold,3,3,cold
-The band played as _ as a sonic boom .,band,boom,played,sonic,loud,fun,quiet,1,1,loud
-The boy was as _ as lightning in the race .,boy,lightning,was,small,hot,quick,slow,2,2,quick
-The room is as _ as a furnace Quickly switch on the fan .,room,furnace,is,cold,freezing,hot,warm,2,2,hot
-Ellana 's hair is as _ as the sky at midnight .,hair,sky,is,dark,brown,blue,bright,0,0,dark
-"To be a good dancer , you should be as _ as swan .",you,swan,be,clumsy,beautiful,graceful,awkward,2,2,graceful
-How will we find our way ? The direction to the hall are as _ as mud .,direction,mud,are,straight,free,clear,opaque,3,2,clear
-Sara was as _ as a lamb .,Sara,lamb,was,modest,full,gentle,roast,2,0,modest
-My new baby brother is as _ as a button .,brother,button,is,cute,tiny,hot,red,0,0,cute
-His bag is as _ as lead because it has many books .,bag,lead,is,heavy,light,dense,lightweight,0,0,heavy
-"After the ball was run over by the car , it was as _ as a pancake .",ball,pancake,was,sharp,white,flat,spherical,2,2,flat
-Max 's personality is as _ as a box of crayons .,personality,box,is,open,colorful,complex,fun,2,1,colorful
-Ted was as _ as a mouse in a room full of cats .,Ted,mouse,was,slow,nervous,stupid,dead,1,1,nervous
-My sister is as _ as a schoolgirl hen she meets strangers .,sister,hen,is,fun,blue,red,shy,3,3,shy
-rita is as _ as a mouse . she does not like to talk .,rita,mouse,is,slow,loud,pretty,quiet,3,3,quiet
-"After doing my chores , the house was as _ as a whistle .",house,whistle,was,clean,public,dirty,sharp,0,0,clean
-The directions were as _ as mud .,directions,mud,were,clear,free,unclear,deep,2,0,clear
-That explanation was as _ as mud .,explanation,mud,was,clear,muddy,free,unclear,3,0,clear
-Zando is as _ as a bear .,Zando,bear,is,evil,thirsty,hungry,dangerous,2,2,hungry
-the water in the river is as _ as crystal .,water,crystal,is,fresh,pure,unclear,clear,3,3,clear
-today reena is as _ as a bee .,reena,bee,is,bored,idle,busy,free,2,2,busy
-The poor puppy is as _ as rake because no one feeds it .,puppy,rake,is,thick,soft,thin,fat,2,2,thin
-"After Christian 's ball was run over by the car , it was as _ as a pancake .",ball,pancake,was,sharp,white,flat,spherical,2,2,flat
-She is as _ as a picture .,She,picture,is,white,sharp,fun,pretty,3,3,pretty
-The room is as _ as night so I could not see anything .,room,night,is,peaceful,empty,dark,light,2,2,dark
-My mom can be as _ as a volcano when I do n't do my chores on time .,mom,volcano,be,extinct,dormant,fiery,hot,2,2,fiery
-The sand under my feet is as _ as silk .,sand,silk,is,smooth,sleek,soft,rough,0,0,smooth
-"on his first day of school , jacob is as _ as a cucumber .",jacob,cucumber,is,hot,warm,cool,dead,2,2,cool
-"Sunday is cleaning day . By the time we 're done , the house is as _ as a whistle .",house,whistle,is,sharp,low,dirty,clean,3,3,clean
-The road is as _ as an arrow .,road,arrow,is,pointed,crooked,sharp,straight,3,3,straight
-The street leading to the bus terminal was as _ as the grave . .,street,grave,was,silent,grave,weak,unmarked,0,0,silent
-That box is as _ as a feather .,box,feather,is,sad,weak,open,light,3,3,light
-The teacher is as _ as a lion when he is angry .,teacher,lion,is,white,wild,fierce,dangerous,2,2,fierce
-The lake was as _ as glass .,lake,glass,was,sharp,broken,green,clear,3,3,clear
-i am as _ as a cheetah .,i,cheetah,am,quick,late,thirsty,slow,0,0,quick
-Maria was as _ as a swan .,Maria,swan,was,solitary,clumsy,awkward,graceful,3,3,graceful
-Have you ever felt as _ as a hippo ?,you,hippo,felt,thirsty,dangerous,soft,hungry,3,3,hungry
-The snow was as _ as a blanket .,snow,blanket,was,thin,sparse,soft,thick,2,3,thick
-the baby rabbit was as _ as mouse .,rabbit,mouse,was,small,long,giant,large,0,0,small
-She was as _ as ice .,She,ice,was,blue,hot,cool,cold,3,3,cold
-Your explanation is as _ as mud .,explanation,mud,is,free,muddy,deep,clear,2,3,clear
-The children were as _ as gold . The teacher was very pleased with them .,children,gold,were,evil,pure,good,bad,2,2,good
-Mrs . Amos was as _ as a lark when all of her students made A 's on the test .,Amos,lark,was,sad,happy,interested,unhappy,1,1,happy
-The children were as _ as a mouse .,children,mouse,were,quiet,loud,innocent,slow,0,0,quiet
-The kids on the sleds sped down the snowy hill as _ as race cars .,kids,cars,sped,loud,fast,slow,dangerous,1,1,fast
-Jerwin is as _ as a lion .,Jerwin,lion,is,afraid,brave,coward,dangerous,1,1,brave
-The boy 's hat was as _ as the grass .,hat,grass,was,green,soft,dry,brown,0,0,green
-My little sister works as _ as a turtle .,sister,turtle,works,fun,quick,slow,fast,2,2,slow
-Imraan was running around as _ as a bee .,Imraan,bee,running,busy,yellow,idle,bored,0,0,busy
-The bread was as _ as nails .,bread,nails,was,hard,sharp,soft,flat,0,0,hard
-I was as _ as a dog on the day of the test .,I,dog,was,loyal,sick,alive,healthy,1,1,sick
-"when school finished , i felt as _ as a bird .",i,bird,felt,free,beautiful,soft,bound,0,0,free
-The brook gurgled as _ as a well - fed baby .,brook,baby,gurgled,hungry,thirsty,happily,hard,2,2,happily
-Croaking frogs sounded as _ as a marching band .,frogs,band,sounded,colorful,wild,small,large,3,3,large
-sue is as _ as a picture .,sue,picture,is,pretty,green,loud,colorful,0,0,pretty
-"you ca n't break that chair , it 's as _ as brick .",it,brick,'s,white,solid,hard,soft,2,2,hard
-She is as _ as a bee .,She,bee,is,pretty,busy,hot,bored,1,1,busy
-My grandfather is as _ as a bat without his glasses .,grandfather,bat,is,fast,dead,blind,black,2,2,blind
-the water in the pond was as _ as crystal .,water,crystal,was,transparent,pure,fresh,clear,3,3,clear
-my house is as _ as a star .,house,star,is,clean,dirty,expensive,public,2,0,clean
-the top model is as _ as toothpick .,model,toothpick,is,sharp,skinny,expensive,oversized,1,1,skinny
-Joe raced the car as _ as lightning .,Joe,lightning,raced,quick,hot,slow,lazy,3,0,quick
-He ate all the fruits because they are as _ as honey .,fruits,honey,are,warm,green,sweet,bitter,2,2,sweet
-"On that winter morning , Grace 's hands were as _ as ice .",hands,ice,were,cold,blue,hot,cool,0,0,cold
-The sun is not shining today . The sky is as _ as midnight .,sky,midnight,is,bright,blue,dark,clear,2,2,dark
-"Without his glasses , the man was as _ as a bat .",man,bat,was,black,blind,gay,fast,1,1,blind
-He will not change his mind no matter how hard you persuade him . He is as _ as a mule .,He,mule,is,stubborn,poor,dense,slow,0,0,stubborn
-Your face is as _ as a fire engine .,face,engine,is,white,pale,red,heavy,2,2,red
-His explanation was as _ as mud .,explanation,mud,was,unclear,clear,free,muddy,0,1,clear
-Mrs . Oakes ' voice on the intercom was as _ as thunder .,voice,thunder,was,loud,sound,low,soft,0,0,loud
-That math problem was as _ as A-B-C .,problem,A-B-C,was,hard,quick,easy,common,2,2,easy
-She has been as _ as a bee all day preparing for the grand party .,She,bee,been,pretty,idle,busy,bored,2,2,busy
-Mr . Ranjit was as _ as cucumber even when a fire broke out in his house .,Ranjit,cucumber,was,cool,warm,stupid,hot,0,0,cool
-Jason 's hands were as _ as mud .,hands,mud,were,clean,dirty,sticky,bare,1,1,dirty
-We are as _ as two peas in a pod .,We,peas,are,alone,eyed,sentimental,alike,3,3,alike
-The little boy stood as _ as a soldier .,boy,soldier,stood,straight,crooked,still,bent,0,0,straight
-Jim felt as _ as an owl when he got his test back .,Jim,owl,felt,wise,stubborn,abrupt,grey,0,0,wise
-The successful businesswoman is as _ as a peacock . Her new collaboration with an international company in London .,businesswoman,peacock,is,blue,humble,proud,yellow,2,2,proud
-The river that is as _ as crystal has attracted many tourists to swim there .,river,crystal,is,clear,opaque,transparent,pure,0,0,clear
-My 80 years - old grandpa 's hair has all fallen out . He is as _ as an egg .,He,egg,is,gay,bald,green,yellow,1,1,bald
-This waiting room is as _ as a freezer box !,room,box,is,light,hot,empty,cold,3,3,cold
-Their words were as _ as knives .,words,knives,were,wooden,sharp,pointed,harsh,1,3,harsh
-"When she saw the kids begin to have a glitter fight , the teacher leapt across the room as _ as a cheetah .",teacher,cheetah,leapt,fast,long,bad,sharp,0,0,fast
-Please help him . He ca n't see anything without his glasses . He is as _ as a bat .,He,bat,is,drunk,black,blind,gay,2,2,blind
-The thunder was as _ as fireworks .,thunder,fireworks,was,loud,beautiful,quiet,soft,0,0,loud
-he was as _ as a mouse when he crept into the room .,he,mouse,was,quiet,loud,noisy,slow,0,0,quiet
-The villagers ask the old man for advice because he is as _ as an owl .,he,owl,is,wise,grey,happy,dead,0,0,wise
-Her eyes were as _ as the stars .,eyes,stars,were,dark,bright,wide,green,1,1,bright
-You were as _ as a lion going into that haunted mansion .,You,lion,were,wild,brave,dangerous,white,1,1,brave
-The rose petals were as _ as delicate silk .,petals,silk,were,smooth,organic,hard,soft,0,3,soft
-Encik Jamal has been driving all day and he does n't stop for lunch . He is now as _ as a hunter .,He,hunter,is,yellow,hard,red,hungry,3,3,hungry
-Sarojini is as _ as a dove . She will not hurt anyone .,Sarojini,dove,is,harsh,rude,graceful,gentle,3,3,gentle
-Kim 's tongue felt as _ as a bone .,tongue,bone,felt,sweet,dry,wet,sharp,3,1,dry
-She is as _ as a fox .,She,fox,is,cunning,hot,pretty,beautiful,0,0,cunning
-I 've been as _ as a bee all day cleaning my house .,I,bee,been,bored,busy,hungry,idle,1,1,busy
-My dad is as _ as a bee .,dad,bee,is,bored,free,busy,idle,2,2,busy
-Her eyes were as _ as the ocean .,eyes,ocean,were,red,green,brown,blue,3,3,blue
-my mum never shouts at me . she is as _ as a lamb .,she,lamb,is,harsh,rough,rude,gentle,3,3,gentle
-She is as _ as a kitten .,She,kitten,is,cute,ugly,beautiful,adorable,0,0,cute
-Madam Kwan bought a lot of daily necessities at the supermarket . The shopping bags are as _ as lead .,bags,lead,are,strong,heavy,light,dense,1,1,heavy
-I could answer the exam questions in less than an hour . It was as _ as ABC .,It,ABC,was,hard,easy,quick,dangerous,1,1,easy
-The car was driving as _ as a snail .,car,snail,driving,quick,slow,fast,crazy,1,1,slow
-The Shokpa 's body is as _ as a mountain .,body,mountain,is,big,beautiful,whole,little,0,0,big
-his promise is as _ as gold . we can rely on him .,promise,gold,is,valuable,pure,good,bad,2,2,good
-Leighton looked as _ as a princess in her costume .,Leighton,princess,looked,bad,evil,pretty,important,2,2,pretty
-Venorica was as _ as a mouse . She cried loudly when all the lights went off .,Venorica,mouse,was,stupid,shy,brave,slow,1,1,shy
-This bagel is as _ as a rock .,bagel,rock,is,white,easy,hard,soft,2,2,hard
-It 's as _ as ABC .,It,ABC,'s,easy,uneasy,quick,hard,1,0,easy
-I 'm as _ as a mouse .,I,mouse,'m,noisy,loud,quiet,slow,2,2,quiet
-Mason was as _ as a cheetah on wheels .,Mason,cheetah,was,fast,active,green,slow,0,0,fast
-The ocean 's waves were as _ as a roring lion .,waves,lion,were,wild,quiet,sound,loud,3,3,loud
-Bill 's mood is as _ as vinegar .,mood,vinegar,is,sour,sticky,bitter,foul,0,0,sour
-Your smile is as _ as the sun .,smile,sun,is,hot,catching,bright,shining,2,2,bright
-That man is as _ as a giant . He is selected for the basketball team .,man,giant,is,tall,large,old,short,0,0,tall
-Hebe 's hair is long and as _ as silk .,hair,silk,is,sleek,rough,soft,smooth,3,3,smooth
-he is as _ as lion .,he,lion,is,coward,brave,wild,afraid,2,1,brave
-His teeth are as _ as pearls .,teeth,pearls,are,white,yellow,blue,pale,0,0,white
-The baby cried as _ as train .,baby,train,cried,old,loud,big,little,1,1,loud
-My brother is as _ as a fox when it comes to getting out of doing chores .,brother,fox,is,shy,bold,red,confident,1,0,shy
-this girl is as _ as snow .,girl,snow,is,fresh,hot,white,beautiful,2,2,white
-The voice of the principal over the intercom was as _ as thunder and startled all of the children .,voice,thunder,was,low,quiet,loud,soft,2,2,loud
-"Allow me , it 's as _ as ABC .",it,ABC,'s,hard,easy,uneasy,quick,2,1,easy
-The water well is as _ as a bone .,well,bone,is,wet,hard,cold,dry,3,3,dry
-The performer on the stage is as _ as a monkey .,performer,monkey,is,talented,playful,agile,cunning,1,2,agile
-Mary is as _ as pie .,Mary,pie,is,pretty,bitter,sweet,warm,2,2,sweet
-The cake was as _ as a snowflake .,cake,snowflake,was,warm,dry,easy,light,3,3,light
-The lettuce was as _ as an early fall morning .,lettuce,morning,was,beautiful,green,crisp,pleasant,3,2,crisp
-Adam is just recovered from his illness . He is as _ as a sheet .,He,sheet,is,pale,blue,dark,large,3,0,pale
-rachel is as _ as a bear now because she skipped her lunch .,rachel,bear,is,hungry,hot,thirsty,drunk,0,0,hungry
-She 's as _ as a button .,She,button,'s,red,bright,dark,green,1,1,bright
-Jayden was as _ as a wet hen .,Jayden,hen,was,happy,mad,red,orange,1,1,mad
-My grandma says I am as _ as pie .,I,pie,am,bitter,sweet,warm,dry,1,1,sweet
-The class was as _ as a mouse .,class,mouse,was,slow,loud,quiet,dull,2,2,quiet
-jack is really tall . he is as _ as a mountain .,he,mountain,is,small,big,tall,dead,2,2,tall
-The water was as _ as crystal .,water,crystal,was,deep,clear,pure,fresh,1,1,clear
-your hands are as _ as ice .,hands,ice,are,cold,hot,cool,blue,0,0,cold
-My grandmother loves reading and she can answer any questions I ask her . She is as _ as an owl .,She,owl,is,cunning,hot,foolish,wise,3,3,wise
-The car was as _ as a cheetah .,car,cheetah,was,beautiful,hot,pretty,fast,3,3,fast
-The cookies were so overcooked that they were as _ as rocks .,cookies,rocks,were,soft,hard,solid,rigid,1,1,hard
-Usain Bolt runs as _ as a cheetah .,Bolt,cheetah,runs,fast,small,soft,heavy,0,0,fast
-William was as _ as a mouse . He cried loudly when all the lights went off .,William,mouse,was,slow,brave,stupid,shy,3,3,shy
-She was as _ as a button .,She,button,was,green,pretty,dark,bright,3,3,bright
-My teeth are as _ as the knives .,teeth,knives,are,pointed,sharp,flat,dull,1,1,sharp
-Her hair is as _ as coal .,hair,coal,is,black,smooth,cold,hot,0,0,black
-I 'm feeling as _ as a dog .,I,dog,feeling,sick,bad,guilty,healthy,0,0,sick
-Naomi is a proficient swimmer . She swims like a fish ! Her arms are as _ as rocks from swimming laps in the pool .,arms,rocks,are,soft,solid,hard,rigid,2,2,hard
-He was as _ as a cucumber .,He,cucumber,was,warm,gay,cool,hot,2,2,cool
-jessie swam as _ as a fish .,jessie,fish,swam,happy,warm,furry,smoothly,3,3,smoothly
-Dad 's hand was as _ as a rock .,hand,rock,was,solid,heavy,hard,hollow,2,0,solid
-His character was as _ as brick .,character,brick,was,heavy,hard,solid,hollow,2,2,solid
-bob will help you carry that heavy box up the stairs . he 's as _ as an ox .,he,ox,'s,fast,slow,weak,strong,3,3,strong
-Those palace guards barely moved . They stood as _ as a statue .,They,statue,stood,still,fast,slow,dead,0,0,still
-Aishah is as _ as a rake . She does not eat well .,Aishah,rake,is,thin,thick,fat,sharp,0,0,thin
-I am as _ as a bear .,I,bear,am,thirsty,sick,brown,hungry,3,3,hungry
-Eleanor felt as _ as a feather as she jumped out of bed .,Eleanor,feather,felt,fun,huge,light,dangerous,2,2,light
-The fishmonger was as _ as a bull when he realised that his neighbour 's cat was stealing his fish every day .,fishmonger,bull,was,ugly,yellow,angry,strong,2,2,angry
-The desert sand was as _ as the setting sun .,sand,sun,was,yellow,orange,ugly,slow,1,1,orange
-The computers at school are as _ as dinosaurs .,computers,dinosaurs,are,new,young,old,early,2,2,old
-The street was as _ as a stove .,street,stove,was,freezing,chilled,cold,hot,3,3,hot
-The bus is as _ as a tortoise . We may not be there on time .,bus,tortoise,is,fast,slow,stupid,quick,1,1,slow
-Dona 's vision was as _ as a hawk 's .,vision,hawk,was,dull,sharp,blurred,dim,2,1,sharp
-The road was as _ as an ice rink !,road,rink,was,sticky,off,slippery,flat,2,2,slippery
-My dad is as _ as an ox .,dad,ox,is,strong,slow,fast,weak,0,0,strong
-She is as _ as candy .,She,candy,is,sweet,bitter,pretty,sour,0,0,sweet
-Anita was as _ as a baby because no one is willing to help her in the Science project .,Anita,baby,was,dead,helpless,miserable,innocent,1,1,helpless
-My room is as _ as a pigsty .,room,pigsty,is,filthy,green,rotten,pristine,0,0,filthy
-when i went outside i felt as _ as a bird .,i,bird,felt,free,heavy,bound,beautiful,0,0,free
-The bruise on Jack 's foot felt as _ as an elephant .,bruise,elephant,felt,big,sized,deep,good,0,0,big
-do n't expect that she 'll change her mind . she 's as _ as a mule .,she,mule,'s,dense,ugly,stubborn,hot,2,2,stubborn
-You should not believe everything he says as he is as _ as a fox .,he,fox,is,drunk,happy,gay,cunning,3,3,cunning
-My grandpa is as _ as an owl .,grandpa,owl,is,alive,wise,foolish,grey,1,1,wise
-Your smile is as _ as the sun .,smile,sun,is,catching,warm,hot,bright,3,3,bright
-His mind is as _ as a samurai 's sword .,mind,sword,is,dim,sharp,dull,clear,1,1,sharp
-"if i were you , i 'd never lend him such a lot of money . he 's as _ as an eel .",he,eel,'s,cold,sticky,slippery,ugly,2,2,slippery
-Ian is as _ as the Empire State Building .,Ian,Building,is,tall,successful,funny,old,0,0,tall
-The new branded smart phone is so thin . It is as _ as a pancake .,phone,pancake,is,sharp,mobile,flat,expensive,2,2,flat
-The answer to the problem is as _ as crystal .,answer,crystal,is,unclear,clear,transparent,pure,1,1,clear
-the living room was painted as _ as snow .,room,snow,painted,beautiful,square,blue,white,3,3,white
-The beef was as _ as leather . I could not chew it .,beef,leather,was,tough,durable,opaque,solid,0,0,tough
-Ms . Shook is as _ as a bear when she has not eaten lunch .,Shook,bear,is,hungry,thirsty,bad,cold,0,0,hungry
-"When my great uncles drives , he is as _ as a turtle .",he,turtle,is,happy,fast,slow,quick,2,2,slow
-That student was as _ as sugar .,student,sugar,was,bitter,sweet,sour,dry,1,1,sweet
-Ming Hua lifted the box easily . It was as _ as a feather .,It,feather,was,young,smart,light,low,2,2,light
-The children were as _ as snow falling .,children,snow,were,quiet,loud,noisy,active,0,0,quiet
-That girl is as _ as nails .,girl,nails,is,tough,weak,soft,sharp,0,0,tough
-He is as _ as a rail .,He,rail,is,thick,thin,drunk,fat,1,1,thin
-the soldier is as _ as a lion .,soldier,lion,is,dangerous,brave,coward,afraid,1,1,brave
-Liam dove into the water as _ as an otter .,Liam,otter,dove,effortlessly,afraid,white,dangerous,0,0,effortlessly
-The apple pie is as _ as honey .,pie,honey,is,green,dry,sweet,warm,2,2,sweet
-I 'm as _ as a wolf .,I,wolf,'m,thirsty,dangerous,sick,hungry,3,3,hungry
-My little brother is as _ as pie .,brother,pie,is,sweet,warm,easy,bitter,0,0,sweet
-your school bag is as _ as giant .,bag,giant,is,big,little,tall,light,2,0,big
-The Shokpa 's face is as _ as hills .,face,hills,is,old,young,alive,new,0,0,old
-But keep quiet and remain as _ as a cucumber or you will be sorry .,you,cucumber,remain,cool,warm,hot,fun,0,0,cool
-Tammy is as _ as a clown .,Tammy,clown,is,funny,pious,silly,unhappy,0,2,silly
-That trip was as _ as a cheetah .,trip,cheetah,a,fun,fast,cool,hot,1,1,fast
-Zero sat as _ as a statue .,Zero,statue,sat,still,hot,cool,innocent,0,0,still
-i ca n't go to work today . i 'm as _ as a dog .,i,dog,'m,fit,healthy,hot,sick,3,3,sick
-Our classroom is as _ as a zoo today .,classroom,zoo,is,noisy,ferocious,religious,chaotic,3,3,chaotic
-Talia 's eyes were as _ as the sun .,eyes,sun,were,hot,bright,green,warm,1,1,bright
-Alvin could not lift the bag because it was as _ as an elephant .,it,elephant,was,fast,slow,light,heavy,3,3,heavy
-Her face is as _ as sheet because she is not feeling well .,face,sheet,is,pale,large,smooth,soft,1,0,pale
-Her hair is as _ as coal .,hair,coal,is,smooth,cold,black,hot,2,2,black
-The books were as _ as a whale .,books,whale,were,expensive,heavy,light,beautiful,1,1,heavy
-that tallest girl in our class is as _ as a giraffe .,girl,giraffe,is,tall,beautiful,old,short,0,0,tall
-The champion for the 100 - metre race runs as _ as a deer .,champion,deer,runs,strong,little,slow,fast,3,3,fast
-They are as _ as two peas in a pod .,They,peas,are,alike,eyed,sentimental,different,0,0,alike
-She is as _ as a mouse .,She,mouse,is,quiet,loud,noisy,slow,0,0,quiet
-the pavement is as _ as glass .,pavement,glass,is,opaque,sticky,slippery,fragile,2,2,slippery
-He is as _ as a fox .,He,fox,is,stupid,bright,gay,smart,3,3,smart
-Mary had a little lamb . Its wool is as _ as snow .,wool,snow,is,beautiful,blue,white,fine,2,2,white
-The house is as _ as a whistle .,house,whistle,is,sharp,public,dirty,clean,3,3,clean
-You are as _ as a hippo !,You,hippo,are,extinct,thirsty,hungry,dangerous,2,2,hungry
-Ken was as _ as a lion . He saved the girl from drowning .,Ken,lion,was,afraid,wild,brave,dangerous,2,2,brave
-The feather of the swan is as _ as snow .,feather,snow,is,white,soft,beautiful,blue,0,0,white
-The puppy was as _ as a cheetah .,puppy,cheetah,was,heavy,fast,soft,light,1,1,fast
-she is as _ as an angel .,she,angel,is,little,innocent,guilty,ugly,1,1,innocent
-The student was as _ as a cucumber as she gave her speech .,student,cucumber,was,curious,cool,warm,lazy,1,1,cool
-He is as _ as dirt .,He,dirt,is,poor,free,rich,packed,0,0,poor
-Adib was as _ as a toad as he never lifted a finger to help with chores at home or at school .,Adib,toad,was,productive,ugly,lazy,active,2,2,lazy
-"When the little girl dances , she is as _ as a swan .",she,swan,is,clumsy,cunning,awkward,graceful,3,3,graceful
-Dad 's snoring was as _ as a train .,snoring,train,was,big,bad,quiet,loud,3,3,loud
-my uncle is as _ as a giraffe .,uncle,giraffe,is,old,friendly,tall,short,2,2,tall
-You are as _ as a button .,You,button,are,tiny,cute,red,hot,1,1,cute
-jane can easily lift the box . It is as _ as feather .,box,feather,is,hot,green,light,tiny,2,2,light
-The bright ornament was as _ as and red as Rudolph 's nose .,ornament,nose,was,hot,round,tiny,green,1,1,round
-She is as _ as a ghost .,She,ghost,is,pale,white,ugly,pretty,0,0,pale
-Boy was as _ as a rocket as he sped by on his bicycle .,Boy,rocket,was,pretty,fast,beautiful,hot,1,1,fast
-Salman is as _ as death after seeing the phython .,Salman,death,is,sad,drunk,pale,dark,0,2,pale
-My dog is as _ as dirty socks .,dog,socks,is,certain,responsible,sing,foul,3,3,foul
-The prefect is as _ as a lion .,prefect,lion,is,wild,senior,urban,bold,3,3,bold
-He is as _ as a bat without his glasses .,He,bat,is,black,gay,blind,fast,2,2,blind
-The beggar does not have a place to stay or food to eat . He is as _ as a church mouse .,He,mouse,is,rich,old,poor,small,2,2,poor
-That teacher was as _ as dishwater .,teacher,dishwater,was,sharp,dull,bright,shiny,1,1,dull
-Roman is as _ as an ox .,Roman,ox,is,fast,strong,weak,slow,1,1,strong
-"Despite eating an entire bag of Halloween candy , Mary was still as _ as a rail .",Mary,rail,was,fat,thin,bloody,thick,1,1,thin
-the boys are as _ as puppies .,boys,puppies,are,fun,male,competitive,playful,3,3,playful
-the table is as _ as rock .,table,rock,is,hard,solid,flat,smooth,0,1,solid
-The thief was as _ as a fox because he managed to escape from the police .,thief,fox,was,common,young,dangerous,cunning,3,3,cunning
-You seem to have many antique stuffs in the cupboard . They must be as _ as the sun .,stuffs,sun,be,ancient,warm,heavy,modern,0,0,ancient
-I am as _ as a bear !,I,bear,am,sick,dangerous,thirsty,hungry,3,3,hungry
-do not expect he will change his mind . He 's as _ as mule .,he,mule,'s,dense,sterile,large,stubborn,3,3,stubborn
-My little sister is a spoil brat . She is as _ as a mule .,She,mule,is,ugly,dense,stubborn,hot,2,2,stubborn
-The boy was as _ as a dog that lost its bone .,boy,dog,was,friendly,happy,glad,sad,3,3,sad
-My mom is as _ as a mouse . she never raises her voice .,mom,mouse,is,quiet,loud,noisy,slow,0,0,quiet
-i did not bring my spectacles so i am as _ as bat .,i,bat,am,blind,black,fast,brown,0,0,blind
-wow the chocolate is as _ as sugar .,chocolate,sugar,is,dry,warm,hot,sweet,3,3,sweet
-I promise I wo n't wake you up when I get home . I will be as _ as a mouse .,I,mouse,be,quiet,slow,loud,noisy,0,0,quiet
-The street was as _ as an oven .,street,oven,was,freezing,hot,cold,chilled,1,1,hot
-prem runs as _ as lightning .,prem,lightning,runs,fast,fun,hot,slow,0,0,fast
-The frog was as _ as oil .,frog,oil,was,opaque,slippery,slick,hot,1,2,slick
-James ' mother was as _ as a peacock when he became a doctor .,mother,peacock,was,ashamed,proud,humble,blue,1,1,proud
-My uncle is eighty - six years old but he is still as _ as a fiddle . He exercises daily at the park .,he,fiddle,is,fit,humble,blue,great,0,0,fit
-He is as _ as a bat .,He,bat,is,fly,blind,gay,drunk,1,1,blind
-The boy danced as _ as a swan for the concert .,boy,swan,danced,graceful,cunning,clumsy,beautiful,0,0,graceful
-That trip was as _ as a cheetah .,trip,cheetah,was,fast,pretty,romantic,beautiful,0,0,fast
-eashen laughed as _ as thunder .,eashen,thunder,laughed,chilling,quiet,loud,soft,2,2,loud
-The bed was as _ as a cotton ball .,bed,ball,was,flat,soft,uncomfortable,hard,1,1,soft
-You are as _ as pie !,You,pie,are,bitter,sour,warm,sweet,3,3,sweet
-"School is over , so I 'm now as _ as a bird .",I,bird,'m,free,fly,bound,sick,0,0,free
-"When I woke up this morning , my house was as _ as ice .",house,ice,was,blue,cool,cold,hot,2,2,cold
-The servant is as _ as a dog to her master .,servant,dog,is,loyal,senior,faithful,polite,0,2,faithful
-The girls could see the fish swimming in the river because the water was as _ as crystal .,water,crystal,was,fresh,transparent,pure,clear,3,3,clear
-His heart is as _ as an ice .,heart,ice,is,hot,cool,cold,melting,2,2,cold
-The judge is as _ as an owl .,judge,owl,is,wise,grey,chief,foolish,0,0,wise
-The motion sickness hit the sailor as _ as lightning .,sickness,lightning,hit,fast,grey,wrong,good,0,0,fast
-The exam just now was as _ as ABC . I finished it in just 10 minutes .,exam,ABC,was,hard,easy,quick,final,1,1,easy
-the beggar was as _ as a wolf and ate up the food very quickly .,beggar,wolf,was,poor,stupid,thirsty,hungry,3,3,hungry
-My sister is very good in drawing . Her drawings are as _ as the rainbow .,drawings,rainbow,are,ugly,colorful,beautiful,bad,1,2,beautiful
-She was as _ as an owl .,She,owl,was,hot,smart,stupid,giant,1,1,smart
-The boy ate five plates of fried noodles because he was as _ as a bear .,he,bear,was,drunk,happy,hungry,thirsty,2,2,hungry
-betty is as _ as the wind so she will win the race .,betty,wind,is,cool,destructive,transparent,swift,3,3,swift
-Our pillows are as _ as clouds .,pillows,clouds,are,soft,fluffy,hard,dry,0,0,soft
-"In her new dress , the little girl was as _ as a button .",girl,button,was,tiny,cute,hot,beautiful,1,1,cute
-The judge was as _ as an owl because he made a great decision .,judge,owl,was,grey,wise,good,foolish,1,1,wise
-My sister is as _ as a fiddle because she walks 10 kilometers daily . .,sister,fiddle,is,good,foolish,grey,fit,3,3,fit
-The cookies were so overcooked that they were as _ as rocks .,cookies,rocks,were,rigid,hard,solid,soft,1,1,hard
-The little boy is as _ as a mouse .,boy,mouse,is,brave,slow,shy,stupid,2,2,shy
-His heart is as _ as lead . There simply is no alternative for him .,heart,lead,is,red,light,dense,heavy,3,3,heavy
-Manny 's made a bookshelf that is as _ as a puppy 's fur .,bookshelf,fur,is,smooth,shaky,rough,uneven,0,0,smooth
-The young boy was as _ as a lion during his doctor 's appointment .,boy,lion,was,stupid,afraid,wild,brave,3,3,brave
-The air felt as _ as lava .,air,lava,felt,cold,cool,hard,hot,3,3,hot
-I start to chop off a potato 's end which is as _ as a thumbnail .,potato,thumbnail,is,thin,narrow,long,wide,0,3,wide
-The lemon juice was as _ as vinegar so Jimmy added some sugar .,juice,vinegar,was,green,bloody,sour,orange,2,2,sour
-my brother is as _ as lion .,brother,lion,is,brave,coward,dangerous,afraid,0,0,brave
-The book was as _ as a rock .,book,rock,was,second,soft,easy,hard,0,3,hard
-The sky was as _ as ink .,sky,ink,was,high,clear,black,red,0,2,black
-She ate so much she became as _ as a pig .,she,pig,became,white,red,fat,blue,2,2,fat
-Mom was as _ as a kid on Christmas when she opened her new vacuum cleaner .,Mom,kid,was,fun,curious,silly,cunning,1,2,silly
-The poor child ate three bowls of rice just now . He is as _ as a wolf .,He,wolf,is,thirsty,drunk,hungry,happy,2,2,hungry
-"Though the athlete is in his forties , he is still as _ as monkey .",he,monkey,is,playful,gay,agile,cunning,2,2,agile
-The water in the pond is as _ as crystal .,water,crystal,is,fresh,clear,transparent,pure,1,1,clear
-"Our headmaster , Mr Chan was as _ as a lion when he was scolding his pupils for playing truant .",headmaster,lion,was,rotten,fierce,wild,dangerous,1,1,fierce
-"The twins look alike , but they are as _ as night and day .",twins,day,are,young,different,small,normal,1,1,different
-Mr . Jenkin 's hat was as _ as a pancake after I sat on it .,hat,pancake,was,white,shattered,flat,sharp,2,2,flat
-She sang as _ as a screaming baby .,She,baby,sang,beautiful,ugly,romantic,lovely,1,3,lovely
-Her face is as _ as the sunlight .,face,sunlight,is,pale,strong,bright,harsh,2,2,bright
-You are as _ as a cheetah !,You,cheetah,are,strong,fast,harsh,pale,1,1,fast
-The partygoers could n't believe how adorable the twins were . They were as _ as kittens !,They,kittens,were,cute,old,small,annoying,0,0,cute
-Mary was as _ as pie .,Mary,pie,was,sweet,warm,bitter,pretty,0,0,sweet
-The dog moved as _ as a train to catch the ball that his owner threw .,dog,train,moved,old,easy,fast,good,2,2,fast
-"She did not want to wake her baby up , so she was as _ as a mouse when she opened the door .",she,mouse,was,noisy,quiet,loud,slow,1,1,quiet
-Ali needs to do five jobs in a day . He is always as _ as a bee .,He,bee,is,yellow,busy,happy,bored,1,1,busy
-Lisa and her best friend could be sisters . They are as _ as two peas in a pod .,They,peas,are,sentimental,green,alike,old,2,2,alike
-The dinner was as _ as dust .,dinner,dust,was,romantic,grey,dry,wet,2,2,dry
-Mom was as _ as a kid on Christmas when she opened her vacuum cleaner .,Mom,kid,was,fun,curious,cunning,silly,1,3,silly
-Her skin was as _ as snow .,skin,snow,was,white,heavy,hard,beautiful,0,0,white
-I have so many things to do right now . I am as _ as a bee .,I,bee,am,hungry,bored,yellow,busy,3,3,busy
-The exam was as _ as ABC for Nora because she had studied hard and prepared well for it .,exam,ABC,was,quick,easy,hard,final,3,1,easy
-The candy bars were as _ as mush in Clay 's hand .,bars,mush,were,soft,green,hard,solid,0,0,soft
-the newborn rabbit 's fur was as _ as snow .,fur,snow,was,beautiful,white,warm,soft,1,1,white
-Richard walks as _ as a turtle getting to class .,Richard,turtle,walks,quick,strong,slow,fast,2,2,slow
-The bread was as _ as a rock !,bread,rock,was,flat,soft,white,hard,3,3,hard
-Mrs . Frindle is as _ as pie !,Frindle,pie,pie,sour,bitter,sweet,warm,2,2,sweet
-The car crash was as _ as thunder .,crash,thunder,was,loud,quiet,blue,bad,0,0,loud
-The flowers were as _ as thoughts of budding love .,flowers,thoughts,were,blue,pink,green,soft,1,3,soft
-My little sister is as _ as a mouse . She does n't like to watch horror movie .,sister,mouse,is,slow,brave,shy,stupid,2,2,shy
-Sarah 's hands were as _ as ice walking in the snow .,hands,ice,were,cold,hot,blue,cool,0,0,cold
-The sea is as _ as a crystal . We can see the fishes swimming around the coral .,sea,crystal,is,pure,clear,blue,opaque,1,1,clear
-The chef is as _ as a bee . He is preparing 200 bowls of noodles for the hotel guests .,chef,bee,is,busy,yellow,idle,bored,0,0,busy
-Mariatu was as _ as a mouse as she snuck into her sister 's room .,Mariatu,mouse,was,slow,quiet,noisy,loud,1,1,quiet
-He was as _ as an animal .,He,animal,was,tame,dead,curious,wild,3,3,wild
-People who are as _ as a bear may break the glasses and plates in the shop .,People,bear,are,lazy,competitive,selfish,clumsy,3,3,clumsy
-your skin is as _ as silk .,skin,silk,is,smooth,sleek,soft,rough,0,0,smooth
-her eyes were as _ as coal .,eyes,coal,were,black,cold,hot,green,0,0,black
-The tea that we drank just now was as _ as honey . So we had to add in some plain water .,tea,honey,was,warm,green,sweet,hot,2,2,sweet
-you were as _ as a lion .,you,lion,were,brave,afraid,wild,dangerous,0,0,brave
-Little John was as _ as a lamb when he was introduced to his new class in kindergarten . .,John,lamb,was,gentle,modest,delicious,full,0,1,modest
-Nobody likes Lisa because she is as _ as a peacock . She always boasts about how rich her parents are .,she,peacock,is,blue,proud,humble,ashamed,1,1,proud
-but she 's as _ as a goldfish .,she,goldfish,'s,harmless,harmful,hot,yellow,0,0,harmless
-The man is as _ as an ox . He can lift a table with only one hand .,man,ox,is,weak,fast,slow,strong,3,3,strong
-The dog is as _ as a horse .,dog,horse,is,fast,little,big,old,0,2,big
-My client is as _ as a newborn lamb !,client,lamb,is,innocent,gentle,legal,guilty,1,0,innocent
-My friends and I sold bookmarks and donated the money to an old man who was as _ as a church mouse .,man,mouse,was,fast,poor,rich,small,1,1,poor
-The lady is as _ as a peacock .,lady,peacock,is,sophisticated,proud,ashamed,humble,1,1,proud
-This bus is as _ as a snail . We may not be able to reach the airport on time .,bus,snail,is,quick,fast,slow,noisy,2,2,slow
-The day continued as _ as a surfboard .,day,surfboard,continued,noisy,quick,smoothly,rapid,2,2,smoothly
-You were as _ as a lion .,You,lion,were,brave,dangerous,afraid,wild,0,0,brave
-My brother was as _ as a lark when he got straight A 's in UPSR .,brother,lark,was,happy,sad,interested,unhappy,0,0,happy
-Maria is a kind girl . She brings happiness to everybody . She is as _ as pie .,She,pie,is,beautiful,pretty,sweet,warm,2,2,sweet
-The snow was as _ as a cloud .,snow,cloud,was,cold,beautiful,fresh,white,3,3,white
-I was as _ as a dog with two tails when receiving a gold medal from the headmaster .,I,dog,was,unhappy,happy,fun,sad,1,1,happy
-It has n't rained for months and the soil is as _ as a bone .,soil,bone,is,wet,dry,hard,sandy,1,1,dry
-"When my great uncles drives , he is as _ as a turtle .",he,turtle,is,quick,happy,fast,slow,3,3,slow
-Her eyes were as _ as diamonds .,eyes,diamonds,were,dull,clear,bright,green,2,2,bright
-Mrs Jasprit is as _ as bat without her glasses .,Jasprit,bat,is,fast,blind,black,brown,1,1,blind
-The test was as _ as ABC .,test,ABC,was,quick,hard,easy,dangerous,2,3,dangerous
-He ran as _ as lightning home when it started to rain .,He,lightning,ran,drunk,quick,slow,hot,0,1,quick
-Her heart is as _ as water .,heart,water,is,pure,fresh,clear,hard,0,0,pure
-I am as _ as a pig in mud .,I,pig,am,thirsty,happy,sad,unhappy,1,1,happy
-This house of cards is as _ as an oak .,house,oak,is,sturdy,hard,expensive,white,0,0,sturdy
-Fairus is as _ as a bear . He is always breaking things .,Fairus,bear,is,clumsy,yellow,dangerous,grey,0,0,clumsy
-The teacher is as _ as butter and naughty pupils are taking advantage of the situation . They do not pay attention in class .,teacher,butter,is,sticky,sweet,soft,hot,2,2,soft
-His scream was as _ as thunder when he hit his leg against the wall .,scream,thunder,was,long,loud,soft,quiet,1,1,loud
-My best friend is as _ as a mule . He just does n't listen to any advice given .,friend,mule,is,stubborn,poor,dense,beloved,0,0,stubborn
-"please be careful , the floor is as _ as eel .",floor,eel,is,flat,slippery,concrete,sticky,1,1,slippery
-The cat was as _ as cheetah .,cat,cheetah,was,alive,hard,fast,cold,2,2,fast
-The old car was as _ as dirt .,car,dirt,was,packed,expensive,free,cheap,3,3,cheap
-the road is as _ as an arrow .,road,arrow,is,pointed,crooked,straight,sharp,2,2,straight
-The little girl 's hair is as _ as silk .,hair,silk,is,hard,soft,smooth,thin,2,1,soft
-He is as _ as an ox .,He,ox,is,slow,strong,weak,fast,1,1,strong
-Tanya is as _ as sugar .,Tanya,sugar,is,sour,bitter,sweet,hot,2,2,sweet
-everyone who sat on that bench complained that it was as _ as a rock .,it,rock,was,soft,heavy,hard,easy,2,2,hard
-The exam was as _ as ABC for Norita because she had studied hard and prepared well for it .,exam,ABC,was,quick,easy,hard,dangerous,1,1,easy
-My grandma is as _ as sugar .,grandma,sugar,is,dry,sour,bitter,sweet,3,3,sweet
-I hardly see my father these days as he is as _ as a bee .,he,bee,is,idle,busy,happy,bored,1,1,busy
-my father is as _ as bee .,father,bee,is,free,idle,busy,bored,2,2,busy
-she exercises regularly and keeps herself as _ as a fiddle .,she,fiddle,keeps,fit,bored,small,free,0,0,fit
-The water in the pond was as _ as crystal .,water,crystal,was,transparent,clear,fresh,pure,1,1,clear
-Phineas and Ferb are as _ as a CIA agent .,Phineas,agent,are,drunk,slippery,gay,unreliable,3,1,slippery
-The dog is as _ as a horse .,dog,horse,is,old,little,fast,big,3,3,big
-Caitlin 's smile was as _ as the sea .,smile,sea,was,big,wide,narrow,open,1,1,wide
-She is as _ as a feather .,She,feather,is,light,dry,open,warm,0,0,light
-my computer is as _ as a snail . i 'm afraid i 'll have to buy a new one soon .,computer,snail,is,expensive,fast,quick,slow,3,3,slow
-The cooing baby was just as _ as a kitten !,baby,kitten,was,skinny,cute,adorable,little,1,1,cute
-Gorillas are as _ as stones .,Gorillas,stones,are,messy,innocent,patient,fuzzy,1,2,patient
-Mother advised my sister not to be as _ as a peacock because she is very beautiful .,sister,peacock,be,modest,yellow,colorful,vain,2,3,vain
-He is as _ as a monkey .,He,monkey,is,funny,like,drunk,happy,3,0,funny
-The fortune tellers nails were as _ as eagle talons .,nails,talons,were,low,short,brief,long,3,3,long
-"That summer day was so hot , the asphalt was as _ as a frying pan .",asphalt,pan,was,hot,hard,cold,flat,0,0,hot
-Jason is as _ as a giraffe . He towers above the rest of his classmates .,Jason,giraffe,is,tall,slow,short,successful,0,0,tall
-The tiger 's teeth is as _ as a razor .,teeth,razor,is,straight,dull,pointed,sharp,3,3,sharp
-Her hands are as _ as the ice .,hands,ice,are,cool,hot,blue,cold,3,3,cold
-the young girl was as _ as a lion .,girl,lion,was,afraid,wild,brave,dangerous,2,2,brave
-The Shokpa 's sound is as _ as a lion 's roar .,sound,roar,is,important,soft,loud,quiet,2,2,loud
-The thief is as _ as a fox .,thief,fox,is,gray,cunning,thief,sneak,1,1,cunning
-The motion sickness hit the sailor as _ as lightning .,sickness,lightning,hit,bad,fast,common,red,1,1,fast
-The ball was as _ as ice .,ball,ice,was,cool,blue,hot,cold,3,3,cold
-The queen 's heart was as _ as ice .,heart,ice,was,cool,cold,blue,hot,1,1,cold
-"After swimming 20 laps , William was as _ as a bear that had recently awakened from hibernation .",William,bear,was,hungry,dead,thirsty,drunk,0,0,hungry
-Mina is as _ as death ecause she is not feeling well .,Mina,death,is,green,pale,yellow,dark,1,1,pale
-The angry child was as _ as a roaring elephant .,child,elephant,was,fast,loud,quiet,wild,1,1,loud
-"the weather is so hot , as _ as hell .",weather,hell,is,hot,warm,mild,cold,0,0,hot
-she is as _ as a snail .,she,snail,is,quick,fast,pretty,slow,3,3,slow
-His face was as _ as a beet .,face,beet,was,angry,yellow,red,green,2,2,red
-He is as _ as his older brother .,He,brother,is,tall,elder,old,short,0,0,tall
-"After the ball was run over by the car , it was as _ as a pancake .",ball,pancake,was,white,spherical,flat,sharp,2,2,flat
-He is as _ as a raccoon .,He,raccoon,is,wild,dead,tame,drunk,0,0,wild
-The waxed floor was as _ as an ice rink .,floor,rink,was,slippery,sticky,dirty,wet,0,0,slippery
-the stuffed animal was as _ as cloud .,animal,cloud,was,hard,soft,white,loud,1,1,soft
-The clouds were as _ as sheep .,clouds,sheep,were,white,fluffy,beautiful,grey,0,0,white
-"In the days before Christmas , the kids were as _ as candy , hoping to end up on Santa 's good list .",kids,candy,were,pink,sweet,lazy,bitter,1,1,sweet
-Your stomach is as _ as an elephant .,stomach,elephant,is,big,full,little,sized,1,0,big
-Mary 's cheeks were as _ as a tomato when she forgot her lines during the school play .,cheeks,tomato,were,red,green,sweet,pink,0,0,red
-The dog was as _ as an elephant .,dog,elephant,was,old,big,fast,little,1,1,big
-That math problem was as _ as A-B-C .,problem,A-B-C,was,quick,common,easy,hard,2,2,easy
-Mimi was as _ as a ghost when she saw a black figure inside her bedroom .,Mimi,ghost,was,red,white,black,green,1,1,white
-My brother is as _ as a pig .,brother,pig,is,elder,pink,green,stubborn,1,3,stubborn
-my dog 's fur is as _ as cloud .,fur,cloud,is,white,soft,warm,hard,0,1,soft
-The dogs fur was as _ as coal .,fur,coal,was,cold,soft,black,hot,2,2,black
-The guards in front of the palace gate barely moved . They stood as _ as a statue .,They,statue,stood,cold,still,hot,warm,1,1,still
-Ali is sick and he is resting in his bed . His face is as _ as a sheet .,face,sheet,is,soft,pale,blue,large,1,1,pale
-The bruise on Cillian 's foot felt as _ as an elephant .,bruise,elephant,felt,deep,sized,big,good,2,2,big
-Aaron was thankful he had brought his flashlight along with him when he realized the night was as _ as coal .,night,coal,was,black,brown,cold,hot,0,0,black
-The contract was as _ as the ground .,contract,ground,was,flat,hollow,solid,hard,2,2,solid
-This is in a society that believes a thought is as _ as the deed .,thought,deed,is,legal,real,imaginary,fake,1,1,real
-"The dialogue is as _ as the characters , with a lot of vernacular that is specific to a certain era in New Orleans .",dialogue,characters,is,fun,funny,colorful,complex,3,2,colorful
-"Unfortunately , the main character ( Andrea Sachs ) is as _ as flat soda .",character,soda,is,complex,sticky,bland,sweet,2,2,bland
-The Cat Empire is truly an original band in a time when true originality is as _ as the raw talent they possess !,originality,talent,is,available,scarce,abundant,common,1,1,scarce
-"The storyline , however sparse , is as _ as the mathematics - albeit quite nineteenth-century'ish in tone .",storyline,mathematics,is,boring,interesting,fun,useful,0,1,interesting
-Huether's and McCance's book is as entertaining and _ as a root canal .,book,canal,is,expensive,painful,noisy,deep,3,1,painful
-"If all his work is as _ as this enchanting story , I'm hooked on MacDonald .",work,story,is,good,fun,funny,bad,2,0,good
-"The words of the narrator are as _ as his sight , and he describes for pages and pages the dialogues and behaviours that take place during such encounters .",words,sight,are,few,reflective,thorough,thrilling,2,2,thorough
-the day was as _ as a flame of a candle .,day,flame,was,perfect,wrong,modern,imperfect,0,0,perfect
-The quality of the printing and editing is almost as _ as the absurdity of the unsubstantiated claims with which the two writers fill page after page .,quality,absurdity,is,amusing,funny,annoying,useful,2,2,annoying
-"Jazz and her twin , Jess , are as _ as night and day .",twin,day,are,normal,single,different,bright,2,2,different
-Chain is as _ as its weakest link,Chain,link,is,heavy,strong,new,weak,3,1,strong
-"Mama May lived where the earth met the sky , and her house was as _ as the prairie .",house,prairie,was,thin,wide,big,narrow,1,1,wide
-"The murder story was not as _ as the glimpses into the society of the time , but the author gives you a well-rounded view of both the top and bottom segments of New York .",story,glimpses,was,interesting,sharp,funny,boring,0,0,interesting
-realism is as _ as it's protagonist,realism,protagonist,is,mute,funny,creative,entertain,2,0,mute
-"Afterwards , your pieces are almost as _ as sunshine .",pieces,sunshine,are,warm,dark,dull,bright,3,3,bright
-"His own death would give us the freedom to see inside his life , inside his journals where his ability to place his adventures on the page is as _ as any assemblage artist that comes to mind .",ability,artist,is,artistic,fascinating,useful,creative,0,1,fascinating
-"For a brief moment , in the pulse of her flesh all Lucas Corso's previous deaths came to life , as if brought by the current of a dark , slow river whose waters were as _ as varnish . """,waters,varnish,were,shallow,thick,thin,sparse,1,1,thick
-Often the explanations are as _ as mud .,explanations,mud,are,muddy,clear,free,unclear,3,1,clear
-"As you progress , your ankles become as _ as rocket boosters and your feet will act as mini-trampolines .",ankles,boosters,become,powerless,solid,powerful,dangerous,2,2,powerful
-"I think the appeal is that the stories are about things young children can relate to , and often have experience of , and the hapless sheep find the world as _ as little ones often do .",sheep,ones,find,dense,new,difficult,surprising,2,3,surprising
-"CONSTANTINE , FOR TANITH Here in the moonlight , raise your sword and dance : Edges strike notes as _ as any star , Sweet crystal clarity no blood could mar , Meet me in war or love , and take this chance .",Edges,star,strike,bright,dark,loud,sharp,0,0,bright
-"First went our fat , and after the leane , Next at our selves they draw their Skeene ; Our Market being spoiled thus on the Land , And troubles increase as _ as the sand .",troubles,sand,increase,thin,sparse,thick,soft,3,2,thick
+sentence,topic,vehicle,event,option0,option1,option2,option3,ans_idx,property
+Thomas is as _ as a lark .,Thomas,lark,is,happy,unhappy,interested,sad,0,happy
+The library is so quiet . It is as _ as the grave .,library,grave,is,empty,silent,grave,weak,1,silent
+Are you feeling ill ? You are as _ as a ghost .,You,ghost,are,dark,pale,creepy,funny,1,pale
+He is as _ as a barrel of monkeys .,He,monkeys,is,happy,evil,wild,funny,3,funny
+She was as _ as a mouse .,She,mouse,was,noisy,slow,ugly,quiet,3,quiet
+That baby is as _ as a kitten .,baby,kitten,is,skinny,cute,adorable,weak,1,cute
+The cave was as _ as night so we could not see anything .,cave,night,was,dark,cold,peaceful,light,0,dark
+Jack was as _ as a lark when he received a new guitar for his birthday .,Jack,lark,was,happy,fun,unhappy,sad,0,happy
+Please add some water to the jug . The lime juice is as _ as vinegar .,juice,vinegar,is,orange,sour,bloody,bitter,1,sour
+The car is as _ as a cherry .,car,cherry,is,red,black,sweet,green,0,red
+Her skin is as _ as the snow .,skin,snow,is,heavy,white,hard,beautiful,1,white
+James disliked the taste of the medicine as it was as _ as a gall .,medicine,gall,was,sharp,bitter,sweet,hard,1,bitter
+The water well is as _ as a bone .,well,bone,is,dry,wet,hard,cold,0,dry
+Peter is as _ as a bean pole .,Peter,pole,is,wooden,skinny,sick,strong,1,skinny
+My Grandma is as _ as the hills .,Grandma,hills,is,low,old,young,new,1,old
+Sanjay was as _ as a hornet when his brother broke his favourite toy truck .,Sanjay,hornet,was,super,religious,mad,happy,2,mad
+Molly 's face turned as _ as a tomato when she gave the wrong answer in class .,face,tomato,turned,white,green,red,yellow,2,red
+I was as _ as a kid at a birthday party .,I,kid,was,happy,fun,unhappy,sad,0,happy
+The boy who injured his leg walked as _ as a snail . We waited patiently for him .,boy,snail,walked,slow,little,quick,fast,0,slow
+I was as _ as ice .,I,ice,was,cool,blue,cold,hot,2,cold
+Jason was as _ as a peacock after winning first place in the swimming competition .,Jason,peacock,was,humble,drunk,proud,ashamed,2,proud
+He is as _ as a mouse .,He,mouse,is,slow,noisy,quiet,happy,2,quiet
+The cheetah ran as _ as lightening .,cheetah,lightening,ran,slow,fast,dangerous,loud,1,fast
+Mark switched off the lights . The room was as _ as night .,room,night,was,dark,loud,sound,dead,0,dark
+When the teacher was angry his voice was as _ as the thunder .,voice,thunder,was,loud,quiet,soft,deep,0,loud
+"After the ball was run over by the car , it was as _ as paper .",ball,paper,was,sharp,spherical,flat,opaque,2,flat
+The old lady is as _ as a baby .,lady,baby,is,innocent,weak,sexy,strong,1,weak
+I am as _ as a bear .,I,bear,am,brown,thirsty,hungry,sick,2,hungry
+Her teeth are as _ as pearls .,teeth,pearls,are,pale,white,yellow,blue,1,white
+My mother 's hair is as _ as a cloud .,hair,cloud,is,hard,soft,smooth,thin,1,soft
+The truck is as _ as an elephant .,truck,elephant,is,sized,big,little,fast,1,big
+My mother is as _ as an angel .,mother,angel,is,kind,slow,fast,little,0,kind
+the boy is running as _ as a cheetah .,boy,cheetah,running,male,slow,quickly,small,2,quickly
+I love snorkelling in Pulau Redang because the water is as _ as crystal .,water,crystal,is,blue,clear,fresh,pure,1,clear
+my husband is as _ as a mule he refuses to go to the doctor about his back .,husband,mule,is,dense,slow,poor,stubborn,3,stubborn
+Rahim has been as _ as a bee getting ready for school because he woke up late .,Rahim,bee,been,yellow,idle,busy,bored,2,busy
+Lindsey runs as _ as as sloth .,Lindsey,sloth,runs,quick,fast,hot,slow,3,slow
+My grandfather is eighty years old but he is still as _ as a fiddle . He exercises daily at the park .,grandfather,fiddle,is,small,quick,fast,fit,3,fit
+The water was as _ as glass .,water,glass,was,sharp,clean,smooth,rough,2,smooth
+I think my grandfather is as _ as these hills !,grandfather,hills,is,new,low,old,young,2,old
+He crept into the room as _ as a mouse .,He,mouse,crept,loud,small,slow,quiet,3,quiet
+The new smartphone is as _ as a feather . It does n't weigh a ton like the old model .,smartphone,feather,is,heavy,light,slow,fast,1,light
+The class was as _ as a zoo .,class,zoo,was,dull,loud,quiet,hard,1,loud
+My hands are as _ as ice .,hands,ice,are,cold,blue,hot,cool,0,cold
+Leah looked as _ as a ghost yesterday .,Leah,ghost,looked,pale,hungry,creepy,white,0,pale
+He is as _ as a fly buzzing around someone 's ear .,He,fly,is,annoying,noisy,happy,fun,0,annoying
+His anger was as _ as a burning ember .,anger,ember,was,cold,red,hot,warm,2,hot
+Liam jumps into the river to save the drowning cat . He is as _ as a lion .,He,lion,is,brave,old,dangerous,afraid,0,brave
+Christine is as _ as pie .,Christine,pie,is,hot,bitter,sweet,warm,2,sweet
+The girl was as _ as a lion . She fought with the robber who tried to rob her yesterday .,girl,lion,was,afraid,pretty,dangerous,brave,3,brave
+"John studies hard , he is as _ as an owl .",he,owl,is,happy,grey,old,wise,3,wise
+The wizard knew no one would see him . His magical cloak made him as _ as air .,cloak,air,made,visible,conspicuous,invisible,beautiful,2,invisible
+My sister is as _ as a bee preparing for her ballet performance tomorrow .,sister,bee,is,bored,busy,yellow,fun,1,busy
+Adam rode his bicycle and scratched his father 's car . His father was as _ as a raging bull .,father,bull,was,dangerous,angry,proud,dead,1,angry
+Mary is such a nice girl who is as _ as a lamb .,girl,lamb,is,gentle,rude,harsh,rough,0,gentle
+my grandma is as _ as an owl .,grandma,owl,is,foolish,wise,grey,sorry,1,wise
+The old man is as _ as an ox when he lifts the heavy box .,man,ox,is,slow,fast,strong,weak,2,strong
+He was as _ as a mouse as he walked down the hall .,He,mouse,was,quiet,happy,slow,loud,0,quiet
+he is as _ as a mouse .,he,mouse,is,slow,happy,silent,gay,2,silent
+His mind is as _ as a samurai 's sword .,mind,sword,is,dull,dim,clear,sharp,3,sharp
+Her eyes are as _ as the cloudless sky .,eyes,sky,are,brown,sunny,blue,green,2,blue
+madam hee is as _ as a queen because she has won a trip to japan .,hee,queen,is,unhappy,sad,happy,beautiful,2,happy
+"In her new dress , Paisley was as _ as a button .",Paisley,button,was,cute,special,tiny,hot,0,cute
+I am as _ as a fox .,I,fox,am,quick,red,slow,thirsty,0,quick
+Jian Chong carried the box easily . It was as _ as a feather .,box,feather,was,light,hungry,slow,dangerous,0,light
+Barry won the first prize in the race . He was as _ as a flash .,He,flash,was,brilliant,slow,sudden,quick,3,quick
+Mrs Max bought a new blouse and it felt as _ as silk .,blouse,silk,felt,smooth,rough,soft,sleek,0,smooth
+He was as _ as a bat .,He,bat,was,black,fly,blind,gay,2,blind
+The villagers always consult their headman to settle their problems and dispute because he is as _ as an owl .,headman,owl,is,wise,funny,foolish,grey,0,wise
+Your backpack is as _ as an elephant .,backpack,elephant,is,lightweight,heavy,light,fast,1,heavy
+She was as _ as a lion .,She,lion,was,wild,brave,dangerous,afraid,1,brave
+ramli ran as _ as lightning to get into the office .,ramli,lightning,ran,fast,big,wild,hot,0,fast
+You 're as _ as a button !,You,button,'re,tiny,cute,red,green,1,cute
+She is as _ as a toothpick .,She,toothpick,is,skinny,hot,pretty,ugly,0,skinny
+Mrs . Aderhold 's mind is as _ as an arrow .,mind,arrow,is,sharp,dull,broad,dim,0,sharp
+She is as _ as a fox .,She,fox,is,hot,quick,slow,pretty,1,quick
+The classroom was as _ as a tongue - tied librarian in a hybrid car .,classroom,librarian,was,quiet,loud,empty,noisy,0,quiet
+my love for you is as _ as the ocean .,love,ocean,is,high,liquid,shallow,deep,3,deep
+"After spending all day ice skating , the kids were as _ as horses .",kids,horses,were,lazy,hungry,dumb,thirsty,1,hungry
+She is as _ as the seabird going forth alone .,She,seabird,is,sad,pretty,happy,glad,0,sad
+The bathroom was as _ as a whistle .,bathroom,whistle,was,sharp,clean,foul,dirty,1,clean
+"When his sister jumped out from behind the door , he was so scared he was as _ as a ghost .",he,ghost,was,white,black,creepy,gay,0,white
+Her dress was as _ as the hawthorn buds in May .,dress,buds,was,sweet,white,blue,yellow,1,white
+She was as _ as a bee .,She,bee,was,busy,bored,hot,pretty,0,busy
+Her hands were as _ as ice after she went swimming .,hands,ice,were,cold,hot,blue,cool,0,cold
+"after the bath , I felt as _ as a daisy .",I,daisy,felt,blue,stale,green,fresh,3,fresh
+I am as _ as a bear recently awakened from hibernation .,I,bear,am,thirsty,hungry,sick,dangerous,1,hungry
+the baby is as _ as the moon .,baby,moon,is,little,beautiful,ugly,blue,1,beautiful
+his neck is as _ as giraffe .,neck,giraffe,is,short,tall,thin,long,1,tall
+Loshini was as _ as a cucumber when the boys teased her .,Loshini,cucumber,was,green,warm,hot,cool,3,cool
+My hands were as _ as ice .,hands,ice,were,hot,cool,blue,cold,3,cold
+Sally is as _ as pie .,Sally,pie,is,sweet,warm,bitter,sour,0,sweet
+the doctor was as _ as dove when she picked the baby .,doctor,dove,was,rough,gentle,graceful,harsh,1,gentle
+The girl was as _ as a bat without her glasses .,girl,bat,was,black,cunning,blind,hot,2,blind
+My new baby brother is as _ as a button .,brother,button,is,red,tiny,cute,hot,2,cute
+The knives in the drawer are as _ as a razor .,knives,razor,are,pointed,straight,dull,sharp,3,sharp
+He was as _ as pie .,He,pie,was,sour,sweet,bitter,warm,1,sweet
+Harvey wants a T - shirt that is as _ as a coal .,shirt,coal,is,red,brown,hot,black,3,black
+The house was as _ as a mouse .,house,mouse,was,loud,quiet,noisy,slow,1,quiet
+Jody raced to the car as _ as lightning .,Jody,lightning,raced,loud,chilling,quick,slow,2,quick
+The apples in the pie are as _ as honey .,apples,honey,are,sweet,crisp,gold,warm,0,sweet
+he was as _ as a bat in the dark room and knocked over the expensive vase .,he,bat,was,brown,black,blind,gay,2,blind
+Fatoumata is as _ as honey !,Fatoumata,honey,is,green,sweet,warm,bitter,1,sweet
+Mr and Mrs Smith 's children graduated from medical school with flying colours . They are as _ as a peacock .,They,peacock,are,colorful,proud,blue,humble,1,proud
+john is as _ as fox .,john,fox,is,gray,sly,drunk,nuts,1,sly
+I 'm as _ as a bat without my glasses .,I,bat,'m,blind,sick,brown,black,0,blind
+They run as _ as lightning the finish line .,They,lightning,run,slow,hard,quick,chilling,2,quick
+Puan Aminah 's explanation is as _ as crystal . All the pupils understand her lessons .,explanation,crystal,is,unclear,pure,opaque,clear,3,clear
+Molly 's eyes were as _ as the sun .,eyes,sun,were,hot,bright,warm,green,1,bright
+The librarian was as _ as candy .,librarian,candy,was,bitter,pink,sweet,sour,2,sweet
+His shirt was as _ as coal .,shirt,coal,was,hot,brown,cold,black,3,black
+"Whenever I meet any difficulties , I will seek the advice from my class teacher . She is as _ as an owl .",She,owl,is,foolish,wise,pretty,cunning,1,wise
+My granddad drives as _ as a snail .,granddad,snail,drives,quick,fast,slow,small,2,slow
+He drew a line as _ as an arrow .,He,arrow,drew,pointed,sharp,straight,crooked,2,straight
+the kitten 's teeth were as _ as knives .,teeth,knives,were,wooden,sharp,dull,pointed,1,sharp
+The judges gave that gymnast the highest score because her movements were flawless and as _ as a swan .,movements,swan,were,graceful,awkward,black,clumsy,0,graceful
+"Ever since he started practising ' tai chi ' , Mr Tan has been as _ as a fiddle .",Tan,fiddle,been,fit,slow,beautiful,fast,0,fit
+He was scared so much he was as _ as a ghost .,he,ghost,was,gay,holy,white,black,2,white
+I could not lift the bag because it was as _ as an elephant .,it,elephant,was,fast,slow,light,heavy,3,heavy
+She 's as _ as a horse .,She,horse,'s,cunning,ugly,hot,stubborn,3,stubborn
+The old man was as _ as a bat .,man,bat,was,black,fast,blind,gay,2,blind
+Toa is as _ as a strong chicken .,Toa,chicken,is,coward,cold,afraid,brave,3,brave
+This box is as _ as lead . Let me help you carry it .,box,lead,is,heavy,dense,dangerous,light,0,heavy
+Her face turned as _ as a rose out of embarrassment after falling off her bicycle just now .,face,rose,turned,white,yellow,red,pale,2,red
+He runs as _ as a deer .,He,deer,runs,fast,old,little,slow,0,fast
+The traffic is moving as _ as a snail at the toll plaza .,traffic,snail,moving,fast,quick,slow,busy,2,slow
+She is as _ as a blue whale .,She,whale,is,ignorant,smart,dangerous,stupid,1,smart
+Your backpack is as _ as a feather .,backpack,feather,is,gay,bright,stupid,light,3,light
+She is as _ as a fiddle because she exercises every day .,She,fiddle,is,drunk,large,fit,happy,2,fit
+"Charlotte is as _ as a mouse . She is frightened of loud noises , large people and just about anything in general .",Charlotte,mouse,is,slow,shy,stupid,brave,1,shy
+The baby was as _ as a picture .,baby,picture,was,fast,slow,pretty,like,2,pretty
+The Shokpa 's head is as _ as a rock .,head,rock,is,heavy,hollow,solid,small,2,solid
+The old man walks as _ as a snail .,man,snail,walks,fast,slow,young,quick,1,slow
+"when we went to the water theme park , we were as _ as a lark .",we,lark,were,sad,unhappy,happy,fun,2,happy
+His nose was as _ as a ripe strawberry .,nose,strawberry,was,pink,green,black,red,3,red
+My sister was as _ as a bee preparing for her ballet performance tomorrow . She had a lot to practice .,sister,bee,was,idle,busy,bored,fun,1,busy
+The girl is as _ as a mouse . She likes to keep to herself .,girl,mouse,is,quiet,noisy,slow,loud,0,quiet
+my friend is as _ as a tortoise .,friend,tortoise,is,cunning,stupid,beloved,slow,0,cunning
+The overcooked steak was as _ as a rock .,steak,rock,was,hard,easy,white,soft,0,hard
+the child is as _ as a kitten .,child,kitten,is,playful,curious,fluffy,adorable,0,playful
+The little baby was as _ as candy .,baby,candy,was,pink,innocent,bitter,sweet,3,sweet
+My sister is as _ as a giraffe !,sister,giraffe,is,tall,little,big,short,0,tall
+there was no more water in the lake . it was as _ as bone .,lake,bone,was,hard,dry,rigid,wet,1,dry
+Kozmy is as _ as gold .,Kozmy,gold,is,pure,bad,good,evil,2,good
+The football player was as _ as an ox as he tackled the quarterback .,player,ox,was,fast,slow,weak,strong,3,strong
+My grandfather is suffering from cancer and he is now as _ as a rake .,grandfather,rake,is,sharp,fat,thick,thin,3,thin
+she woke in the morning as _ as daisy .,she,daisy,woke,green,fresh,pretty,ripe,1,fresh
+Mike Kennedy 's coffee was as _ as the snow that was falling outside .,coffee,snow,was,cold,hot,deep,bitter,0,cold
+The mosquito 's bite was as _ as a tack .,bite,tack,was,hard,sharp,pointed,dull,1,sharp
+"Look at him , he has recovered from a fever and looks as _ as day .",he,day,looks,ancient,present,new,familiar,2,new
+my grandmother is as _ as honey .,grandmother,honey,is,warm,sweet,bitter,sour,1,sweet
+She is as _ as a baby . She has no idea how to go on from here .,She,baby,is,innocent,messy,cunning,helpless,3,helpless
+the man is as _ as a mule .,man,mule,is,male,sterile,stubborn,dense,2,stubborn
+Mr wong is as _ as lion .,wong,lion,is,afraid,wild,coward,brave,3,brave
+The sidewalks were as _ as glass freshly cleaned for the birthday party .,sidewalks,glass,were,fragile,sticky,opaque,slippery,3,slippery
+I am as _ as a wolf . I can finish all the food on the table .,I,wolf,am,sick,thirsty,hungry,wild,2,hungry
+her hair is as _ as night .,hair,night,is,smooth,thin,brown,black,3,black
+she is as _ as a lamb .,she,lamb,is,rude,rough,gentle,harsh,2,gentle
+Aleesa won first place in the dance competition . She danced as _ as a swan .,She,swan,danced,awkward,firm,graceful,red,2,graceful
+Jason is as _ as an owl .,Jason,owl,is,aged,successful,wise,married,2,wise
+The classroom was as _ as an oven when the air conditioning broke .,classroom,oven,was,chilled,hot,cold,freezing,1,hot
+Mr . Ray is as _ as a cheetah .,Ray,cheetah,is,friendly,fast,religious,cold,1,fast
+He was as _ as a six - foot - three - inch tree .,He,tree,was,tall,large,small,short,0,tall
+she was as _ as a feather .,she,feather,was,happy,dead,gay,light,3,light
+Mrs . Cole was reading a book which is as _ as an elephant .,book,elephant,is,sized,big,small,little,1,big
+my mother is as _ as a bee .,mother,bee,is,free,bored,busy,idle,2,busy
+Kamal can climb up and down easily and quickly . He is as _ as a monkey .,He,monkey,is,cunning,playful,agile,happy,2,agile
+I am as _ as a wolf because I have not eaten anything since morning .,I,wolf,am,thirsty,dangerous,sick,hungry,3,hungry
+Even though you are as _ as a lion you must be careful and do not walk on a lonely road .,you,lion,are,afraid,wild,brave,dangerous,2,brave
+Tonya is as _ as sugar .,Tonya,sugar,is,bitter,sour,sweet,hot,2,sweet
+She was as _ as a toothpick .,She,toothpick,was,hot,thick,thin,fat,2,thin
+Chui Ling 's brother is as _ as a kitten . He tears the newspapers into pieces and glues them onto her money box .,brother,kitten,is,fluffy,adorable,playful,angered,2,playful
+Her heart was as _ as coal .,heart,coal,was,brown,red,black,pure,2,black
+The pencil is as _ as a feather .,pencil,feather,is,heavy,cold,hot,light,3,light
+"Although Kai Ren and his twin brother look as _ as two peas , their characters are different .",brother,peas,look,quick,alike,important,good,1,alike
+The paper is as _ as a feather .,paper,feather,is,reflective,light,sweet,quick,1,light
+The servant is as _ as a dog to his master .,servant,dog,is,loyal,faithful,senior,polite,1,faithful
+harry is as _ as an ox .,harry,ox,is,fast,strong,weak,slow,1,strong
+Everyone heard his message because his voice was as _ as thunder .,voice,thunder,was,low,loud,soft,quiet,1,loud
+"Without his spectacles , Abu is as _ as a bat .",Abu,bat,is,black,blind,brown,evil,1,blind
+Freshly washed sheets are as _ as untouched water .,sheets,water,are,transparent,soft,rough,smooth,3,smooth
+He is as _ as a rail .,He,rail,is,thick,drunk,thin,fat,2,thin
+The toddler was running around as _ as a bee .,toddler,bee,running,messy,yellow,idle,busy,3,busy
+This house is as _ as a whistle .,house,whistle,is,sharp,public,dirty,clean,3,clean
+Her mom is as _ as sugar .,mom,sugar,is,bitter,sour,sweet,pretty,2,sweet
+Mrs Ong goes to the market every Saturday morning at seven o'clock as _ as clockwork .,Ong,clockwork,goes,irregular,regular,mechanical,dangerous,1,regular
+I am as _ as a bear . Can we have our dinner now ?,I,bear,am,polar,sick,hungry,dangerous,2,hungry
+The floor is as _ as a whistle . Sheila just mopped it .,floor,whistle,is,dirty,sharp,flat,clean,3,clean
+"Since Mom has two jobs , she is always as _ as a bee .",Mom,bee,is,bored,busy,idle,yellow,1,busy
+He is as _ as a lion .,He,lion,is,afraid,coward,dangerous,brave,3,brave
+Kolton 's trick or treat bag was as _ as a bag of rocks .,bag,rocks,was,dense,heavy,light,lightweight,1,heavy
+She is as _ as a toothpick .,She,toothpick,is,hot,thin,fat,thick,1,thin
+They are as _ as night and day .,They,day,are,like,different,alike,normal,1,different
+Santa was as _ as a mouse as he slid down the chimney .,Santa,mouse,was,slow,noisy,loud,quiet,3,quiet
+The fire was as _ as a crackling fire .,fire,fire,was,hot,cool,warm,heavy,2,warm
+The pupils are as _ as bees preparing for tomorrow 's event .,pupils,bees,are,idle,busy,bored,alive,1,busy
+sue got up at and she was as _ as a daisy .,she,daisy,was,fresh,stale,ripe,rotten,0,fresh
+Mr Brown will not change his mind because he is as _ as a mule .,he,mule,is,poor,dense,slow,stubborn,3,stubborn
+"nora won't change her decision , she is as _ as a mule .",she,mule,is,dense,stubborn,hot,ugly,1,stubborn
+Rania tripped and fell while performing on her school play . She turned as _ as a beet as she felt embarrassed .,Rania,beet,turned,red,green,white,brown,0,red
+We do n't really like her because she is as _ as a peacock .,she,peacock,is,proud,humble,blue,ashamed,0,proud
+He is as _ as a cat .,He,cat,is,lazy,thirsty,slow,quick,3,quick
+my hands are as _ as ice .,hands,ice,are,hot,cool,cold,blue,2,cold
+her hair is as _ as silk .,hair,silk,is,smooth,sleek,soft,rough,0,smooth
+my throat is as _ as a bone .,throat,bone,is,hollow,dry,hard,wet,1,dry
+the warrior is as _ as a lion .,warrior,lion,is,coward,brave,dangerous,afraid,1,brave
+He was as _ as a bull .,He,bull,was,strong,top,happy,weak,0,strong
+"when she dances , she is as _ as a swan .",she,swan,is,clumsy,awkward,graceful,cunning,2,graceful
+Her eyes were as _ as the sky and as deep as the sea !,eyes,sky,were,red,green,blue,brown,2,blue
+The ballet dancer was as _ as a swan . Everyone praised her after the performance .,dancer,swan,was,clumsy,awkward,graceful,female,2,graceful
+"Without my glasses , I am as _ as a bat .",I,bat,am,blind,brown,sick,black,0,blind
+The woman was as _ as a puppy .,woman,puppy,was,energetic,female,soft,fluffy,0,energetic
+my sister is as _ as sugar .,sister,sugar,is,sour,sweet,dry,bitter,1,sweet
+I am as _ as a wolf I can finish all the food .,I,wolf,am,hungry,sick,thirsty,old,0,hungry
+My best friend is as _ as a dog .,friend,dog,is,friendly,loyal,faithful,hot,1,loyal
+Is your brother eating enough food ? He is as _ as a rake .,He,rake,is,thick,fat,sharp,thin,3,thin
+the sunset at the beach is as _ as rainbow .,sunset,rainbow,is,hideous,romantic,cloudy,beautiful,3,beautiful
+Jenny was as _ as a lark when she received a new bicycle for her birthday .,Jenny,lark,was,happy,sad,beautiful,unhappy,0,happy
+The children were as _ as mice .,children,mice,were,loud,noisy,innocent,quiet,3,quiet
+Your eyes are as _ as the sky .,eyes,sky,are,blue,sunny,green,brown,0,blue
+he is as _ as ox .,he,ox,is,strong,weak,fast,slow,0,strong
+You were as _ as a lion .,You,lion,were,afraid,wild,dangerous,brave,3,brave
+John is as _ as a church mouse He is not able to make ends meets .,John,mouse,is,small,dead,poor,rich,2,poor
+The night is as _ as a sharp sword .,night,sword,is,hot,black,cold,chilling,2,cold
+Ted was as _ as a cat with a long tail in a room full of rocking chairs .,Ted,cat,was,hungry,lazy,thirsty,nervous,3,nervous
+"Without his spectacles , my grandfather is as _ as a bat .",grandfather,bat,is,brown,fast,black,blind,3,blind
+Codie is as _ as a skyscraper .,Codie,skyscraper,is,ugly,yellow,short,tall,3,tall
+Mazlan is as _ as a bat without his eyeglasses .,Mazlan,bat,is,blind,yellow,blue,black,0,blind
+The diamond is as _ as the sun .,diamond,sun,is,beautiful,shiny,dull,legendary,1,shiny
+The instructions were as _ as mud .,instructions,mud,were,unclear,deep,clear,free,2,clear
+Ali always knocks his head and falls down . He is as _ as a bear .,He,bear,is,dangerous,happy,clumsy,gay,2,clumsy
+Her hair is as _ as silk .,hair,silk,is,rough,sleek,soft,smooth,3,smooth
+"Without his glasses , the man was as _ as a bat .",man,bat,was,blind,gay,black,fast,0,blind
+She is as _ as a swan .,She,swan,is,graceful,clumsy,awkward,solitary,0,graceful
+"Her lines of poetry are as _ as flowers , as strong as vines .",poetry,flowers,are,green,bitter,sweet,pink,2,sweet
+She was as _ as a bee .,She,bee,was,hot,bored,busy,pretty,2,busy
+He is as _ as a Gorilla .,He,Gorilla,is,male,gay,hairy,bald,2,hairy
+Her smile was as _ as the sun .,smile,sun,was,bright,hot,catching,warm,0,bright
+Abigail is as _ as a giraffe .,Abigail,giraffe,is,short,tall,beautiful,old,1,tall
+She is too nervous to talk to her new classmates . She is as _ as squirrel .,She,squirrel,is,confident,pretty,hot,shy,3,shy
+This book is as _ as a feather .,book,feather,is,light,ugly,confident,hot,0,light
+"Since Mom has two jobs , she is always as _ as a bee .",Mom,bee,is,idle,yellow,bored,busy,3,busy
+The frosting on the cake is as _ as my baby sister .,frosting,sister,is,dry,bitter,sweet,sour,2,sweet
+These tacos are as _ as a hundred ghost peppers !,tacos,peppers,are,hot,red,cold,spice,0,hot
+Hui Xian scored the highest mark in English . She was as _ as a peacock .,She,peacock,was,proud,ashamed,humble,ugly,0,proud
+The sea water is as _ as crystal because I can see the fishes in it .,water,crystal,is,pure,fresh,deep,clear,3,clear
+The cookies were so overcooked that they were as _ as rocks .,cookies,rocks,were,solid,hard,rigid,soft,1,hard
+The lightbulb is as _ as the sun .,lightbulb,sun,is,hot,dark,bright,small,2,bright
+The dog was as _ as an elephant . .,dog,elephant,was,big,little,fast,old,0,big
+Ai Lee can carry the books easily because they are as _ as a feather .,books,feather,are,hot,slow,light,fast,2,light
+"In this desert , the land is as _ as brick .",land,brick,is,hard,flat,solid,soft,0,hard
+the room was as _ as night so i could n't see anything .,room,night,was,peaceful,empty,light,dark,3,dark
+He is as _ as a barrel of monkeys .,He,monkeys,is,evil,wild,happy,funny,3,funny
+It is snowing outside . My hands are as _ as ice .,hands,ice,are,hot,cool,cold,blue,2,cold
+"Without my glasses , I 'm as _ as a bat .",I,bat,'m,brown,blind,black,sick,1,blind
+the cricketer was as _ as a cat to catch the ball .,cricketer,cat,was,slow,thirsty,quick,cunning,2,quick
+"She has learned gymnastics , and is as _ as a monkey .",She,monkey,is,playful,cunning,beautiful,agile,3,agile
+he cake which mrs raju baked was as _ as honey .,cake,honey,was,sweet,green,bitter,warm,0,sweet
+He is as _ as a giraffe .,He,giraffe,is,tall,slow,short,old,0,tall
+She is as _ as a tack .,She,tack,is,pointed,dull,cunning,sharp,3,sharp
+The coffee was as _ as lava .,coffee,lava,was,red,cold,bitter,hot,3,hot
+The cat is as _ as the night sky .,cat,sky,is,clear,lazy,wild,black,3,black
+Mother covered my feet with a blanket because they were as _ as ice .,feet,ice,were,blue,hot,cool,cold,3,cold
+The workers are as _ as a bee complete the building .,workers,bee,are,busy,lazy,idle,bored,0,busy
+The skater was as _ as a swan as she glided across the ice .,skater,swan,was,clumsy,graceful,athletic,awkward,1,graceful
+robin can run as _ as cheetah .,robin,cheetah,run,beautiful,tall,fast,pretty,2,fast
+this fruit is as _ as honey .,fruit,honey,is,sweet,warm,bitter,sour,0,sweet
+I was as _ as a turkey after my Thanksgiving meal .,I,turkey,was,delicious,stuffed,warm,ripe,1,stuffed
+The burglars could not break up the safe because it is as _ as a rock .,safe,rock,is,hollow,solid,secure,hard,1,solid
+My mouth is as _ as a desert .,mouth,desert,is,wet,dry,barren,hot,1,dry
+I 'm sweating now because the weather is as _ as an oven .,weather,oven,is,mild,hot,warm,cold,1,hot
+The teacher 's explanation was as _ as mud .,explanation,mud,was,free,clear,unclear,deep,1,clear
+You are as _ as a lion .,You,lion,are,brave,dangerous,coward,afraid,0,brave
+The soldiers was as _ as lions hen they fought the enemy .,soldiers,hen,was,fierce,evil,male,dangerous,0,fierce
+Mary said the medicine was as _ as candy .,medicine,candy,was,sweet,pink,bitter,dry,0,sweet
+the laundry bag was as _ as elephant .,bag,elephant,was,big,little,light,sized,0,big
+"Even though Lily eats a lot , she is still as _ as a rake .",she,rake,is,thin,fat,hot,thick,0,thin
+This contract is as _ as the ground we stand on .,contract,ground,is,flat,solid,hollow,hard,1,solid
+jessica is as _ as a frog .,jessica,frog,is,attractive,ugly,pretty,beautiful,1,ugly
+The shells I collected by the seashore are as _ as crystal .,shells,crystal,are,clear,pure,unclear,green,0,clear
+The groundhog on the side of the road was as _ as a doornail .,groundhog,doornail,was,alive,slow,extinct,dead,3,dead
+The river is popular with tourist because of the water . It is as _ as crystal .,river,crystal,is,cool,clear,pure,opaque,1,clear
+David 's room was as _ as a pair of brand new shoes .,room,shoes,was,dirty,clean,square,empty,1,clean
+The pencil is as _ as a feather .,pencil,feather,is,light,empty,expensive,open,0,light
+I slept as _ as a bug in a rug in my new bed .,I,bug,slept,there,close,nice,fun,1,close
+Chinese New Year is around the corner . I am as _ as a king because I can get ' Angpau ' from my parents .,I,king,am,happy,sad,rich,unhappy,0,happy
+Jane was as _ as a painting .,Jane,painting,was,rich,sad,unhappy,pretty,3,pretty
+johan runs as _ as lightning to the toilet after he had some spicy gravy .,johan,lightning,runs,powerful,fast,high,first,1,fast
+the surface of the stool was as _ as rock .,surface,rock,was,hard,heavy,soft,solid,0,hard
+The old man walks as _ as a tortoise .,man,tortoise,walks,young,little,slow,quick,2,slow
+That naughty boy who was as _ as a monkey loved climbing trees .,boy,monkey,was,cunning,playful,male,dense,1,playful
+"Although she was really frustrated with the class 's grades , she stayed as _ as a gentle breeze .",she,breeze,stayed,light,soft,cool,calm,3,calm
+The dinner was as _ as a five star restaurant .,dinner,restaurant,was,romantic,delicious,fun,expensive,1,delicious
+Harry always gets good marks in the examinations and he is as _ as an owl .,he,owl,is,foolish,wise,happy,drunk,1,wise
+I 'm shivering because the weather is as _ as ice .,weather,ice,is,cold,warm,hot,cool,0,cold
+He was as _ as a beaver .,He,beaver,was,bored,busy,happy,idle,1,busy
+My dog is as _ as a mouse .,dog,mouse,is,slow,quiet,loud,noisy,1,quiet
+He is as _ as a skyscraper .,He,skyscraper,is,drunk,tall,old,short,1,tall
+I am so thirsty that my throat is as _ as a bone .,throat,bone,is,hollow,hard,dry,wet,2,dry
+Mom 's stare was as _ as ice .,stare,ice,was,hot,blue,cool,cold,3,cold
+The handshake felt as _ as her mother 's laundry .,handshake,laundry,felt,friendly,warm,cool,soft,1,warm
+I am as _ as a hornet .,I,hornet,am,angry,thirsty,sick,hungry,0,angry
+she was as _ as a scarecrow in that outfit .,she,scarecrow,was,pretty,beautiful,attractive,ugly,3,ugly
+Abu is as _ as a mouse because he is afraid of everything .,Abu,mouse,is,slow,evil,shy,brave,2,shy
+Ravi was as _ as a cucumber delivering his speech to a full house audience .,Ravi,cucumber,was,warm,cool,hot,white,1,cool
+That was as _ as a haunted house .,That,house,was,scary,expensive,bad,white,0,scary
+Tim could see the fishes and corals in Redang Island because the sea water was as _ as crystal .,water,crystal,was,clear,fresh,pure,deep,0,clear
+Our football team 's running back is as _ as a cheetah .,team,cheetah,is,hot,fast,deep,dangerous,1,fast
+He was as _ as a beanstalk .,He,beanstalk,was,drunk,thin,thick,fat,1,thin
+Mom was as _ as a bee as she prepared for the holiday party .,Mom,bee,was,yellow,bored,busy,idle,2,busy
+The ballerina is as _ as a swan .,ballerina,swan,is,clumsy,graceful,awkward,tall,1,graceful
+Samantha is shy . Her cheeks turn as _ as a cherry when we speak to her .,cheeks,cherry,turn,green,pink,red,black,2,red
+Bill was as _ as a snail .,Bill,snail,was,quick,fast,slow,rapid,2,slow
+david runs as _ as snail .,david,snail,runs,slow,quick,alive,fast,0,slow
+I am as _ as a bear recently awaken from hibernation .,I,bear,am,hungry,dangerous,sick,thirsty,0,hungry
+This bagel is as _ as a rock .,bagel,rock,is,easy,white,soft,hard,3,hard
+His eyes are as _ as the ocean .,eyes,ocean,are,green,red,brown,blue,3,blue
+he will never settle down . he likes travelling from place to place as _ as a bird .,he,bird,travelling,dead,happy,free,gay,2,free
+"She always apply lotion on her hands , therefore her hands are as _ as silk .",hands,silk,are,sleek,soft,hard,smooth,1,soft
+the sprinter is as _ as a deer . i think he stands a good chance of winning .,sprinter,deer,is,swift,fast,dead,beautiful,0,swift
+She is as _ as a May morning .,She,morning,is,tender,red,young,french,0,tender
+Her smile is as _ as the sun .,smile,sun,is,shining,hot,warm,bright,3,bright
+Talking to him was as _ as eating a hamburger with freshly painted nails .,Talking,hamburger,was,frustrating,delicious,hot,noisy,0,frustrating
+the boy is as _ as giraffe .,boy,giraffe,is,tall,small,old,short,0,tall
+The toddler is as _ as a kitten . He keeps running and playing with his brother .,toddler,kitten,is,adorable,playful,cunning,fluffy,1,playful
+The chicken wings were overcooked in oven for 30 minutes . They looked as _ as coal .,chicken,coal,looked,small,fluffy,black,weak,2,black
+paan is as _ as a king because he has won a trip to australia .,paan,king,is,sad,rich,happy,unhappy,2,happy
+I could not see anything in the room because it is as _ as night .,room,night,is,empty,small,dark,peaceful,2,dark
+The bruise on George 's foot felt as _ as an elephant .,bruise,elephant,felt,big,good,sized,deep,0,big
+The student was as _ as a bee .,student,bee,was,busy,bored,idle,lazy,0,busy
+john runs as _ as a cheetah .,john,cheetah,runs,small,young,fast,smart,2,fast
+The witch has a horrible looking . She is as _ as a toad .,She,toad,is,medical,idle,rag,ugly,3,ugly
+She is a ballet dancer who can dance as _ as a swan .,dancer,swan,dance,graceful,sexy,beautiful,clumsy,0,graceful
+this child is as _ as a feather .,child,feather,is,sexy,light,romantic,mute,1,light
+everyone praised gina . she looked as _ as a picture .,she,picture,looked,blurred,pretty,sexy,expensive,1,pretty
+"Although my grandfather is already 70 years old , he is still as _ as a fiddle .",he,fiddle,is,pretty,fit,blue,sexy,1,fit
+Pak Mali did not complete his education but he is as _ as an owl .,he,owl,is,drunk,grey,foolish,wise,3,wise
+man kit lifted the box easily . it was as _ as a feather .,it,feather,was,old,dead,happy,light,3,light
+The cat is as _ as a tiger .,cat,tiger,is,dangerous,lazy,fierce,thirsty,2,fierce
+The test is as _ as ABC .,test,ABC,is,easy,hard,quick,final,0,easy
+Jing Xuan is as _ as a mule . He never listens to others ' advice .,Xuan,mule,is,expensive,fun,dense,stubborn,3,stubborn
+The fire was as _ as the sun .,fire,sun,was,bright,warm,cold,hot,3,hot
+The box is as _ as a feather so he can carry it easily .,box,feather,is,warm,open,heavy,light,3,light
+He is as _ as a stick .,He,stick,is,thin,thick,fat,sharp,0,thin
+the soap is as _ as an eel .,soap,eel,is,sticky,ugly,opaque,slippery,3,slippery
+My brother is as _ as a pig He does not want to help me with the housework .,brother,pig,is,productive,cunning,active,lazy,3,lazy
+The twins will be fine camping out in the woods . They are as _ as nails .,They,nails,are,sharp,tough,soft,weak,1,tough
+the coins were shinning as _ as sun .,coins,sun,shinning,brightly,red,sharp,white,0,brightly
+He is as _ as a fox .,He,fox,is,quick,happy,slow,red,0,quick
+The cupcake was as _ as the Sahara Desert .,cupcake,Desert,was,wet,desert,hot,dry,3,dry
+His mouth was as _ as a knife .,mouth,knife,was,dry,pink,dull,sharp,3,sharp
+You can be as _ as a dog .,You,dog,be,sad,unhappy,fun,happy,3,happy
+The bread was as _ as a rock .,bread,rock,was,white,flat,soft,hard,3,hard
+"You know how in "" Rocky "" he prepares for the fight by punching sides of raw beef ? Well , yesterday it was as _ as that meat locker he was in .",yesterday,locker,was,metal,cold,open,hot,1,cold
+The night is as _ as a sharp sword .,night,sword,is,chilling,cold,hot,black,1,cold
+ahmed has been working hard to finish his homework he was as _ as bee .,he,bee,was,yellow,happy,bored,busy,3,busy
+She was as _ as a button .,She,button,was,ugly,tiny,beautiful,cute,3,cute
+alia always falls down . she is as _ as a bear .,she,bear,is,beautiful,dangerous,clumsy,ugly,2,clumsy
+Steve turned as _ as a ghost when his father caught him ! .,Steve,ghost,turned,hungry,black,funny,white,3,white
+He is as _ as a fox .,He,fox,is,sly,gray,drunk,gay,0,sly
+My mom was as _ as a kid on Christmas morning when we got a pool .,mom,kid,was,curious,fun,old,excited,3,excited
+John is as _ as a horse .,John,horse,is,drunk,dead,thirsty,hungry,3,hungry
+Bowen is as _ as a dragon .,Bowen,dragon,is,bully,back,pale,mean,3,mean
+The dog was as _ as coal .,dog,coal,was,white,brown,black,hot,2,black
+"His bike is so new , it is as _ as a twinkling star .",bike,star,is,shiny,fun,powerful,dull,0,shiny
+The thief was as _ as a fox .,thief,fox,was,cunning,gray,common,thief,0,cunning
+The dog 's eyes were as _ as coal .,eyes,coal,were,black,cold,green,hot,0,black
+His face was as _ as a lobster after spending the day at the beach .,face,lobster,was,pale,white,round,red,3,red
+Zahim is as _ as a peacock when he is announced as the champion for the game .,Zahim,champion,is,ashamed,proud,competitive,humble,1,proud
+The man turned as _ as a ghost when his father caught him stealing from his wallet .,man,ghost,turned,black,funny,white,young,2,white
+Ravi ran as _ as lightning and emerged as champion in the marathon .,Ravi,champion,ran,famous,big,fast,slow,2,fast
+the gymnast was as _ as a swan . her movements were flawless .,gymnast,swan,was,athletic,graceful,female,clumsy,1,graceful
+"The wind blew as _ as ice across my face as I rang Mrs . Goodman 's doorbell , and after what seemed like forever , the door finally opened .",wind,ice,blew,cool,blue,hot,cold,3,cold
+he is as _ as a feather .,he,feather,is,hot,free,cool,light,3,light
+Her hair was as _ as silk .,hair,silk,was,hard,soft,smooth,thin,1,soft
+Zane could answer all the questions during the examination because they were as _ as ABC .,questions,ABC,were,quick,easy,difficult,hard,1,easy
+She is as _ as a picture .,She,picture,is,bad,big,pretty,quick,2,pretty
+"with all her activities , she 's always as _ as a bee .",she,bee,'s,idle,hot,bored,busy,3,busy
+His punches were as _ as lightning and caught his opponent by surprise .,punches,lightning,were,hot,heavy,quick,slow,2,quick
+"During the house fire , my Dad was as _ as a lion .",Dad,lion,was,dangerous,wild,brave,afraid,2,brave
+The football player is as _ as a cheetah .,player,cheetah,is,wild,dangerous,fast,afraid,2,fast
+Her hair was as _ as coal .,hair,coal,was,smooth,black,hot,cold,1,black
+My friends and I sold our old toys and donated the money to an old man who was as _ as a church mouse .,man,mouse,was,small,fast,rich,poor,3,poor
+i was amazed seeing danial pushing the broken down mini-van away from the road he is as _ as ox .,he,ox,is,fast,strong,slow,weak,1,strong
+There was a long queue in the post office and it was moving very slowly . There was only one officer serving and he was as _ as a snail .,he,snail,was,quick,slow,fast,dead,1,slow
+Johnny was as _ as lightning .,Johnny,lightning,was,hot,quick,slow,dead,1,quick
+this boy is as _ as a turtle .,boy,turtle,is,fast,quick,slow,stupid,2,slow
+The wooden table is as _ as an elephant . It needs four men to lift it up .,table,elephant,is,heavy,flat,light,fast,0,heavy
+Mrs . Reale 's cheeks were as _ as tomatoes when she was embarrassed .,cheeks,tomatoes,were,red,pink,green,flushed,0,red
+i did not get enough sleep last night . i am as _ as a koala .,i,koala,am,sick,thirsty,sleepy,hungry,2,sleepy
+He ca n't see anything without his glasses . He is as _ as a bat .,He,bat,is,gay,blind,drunk,black,1,blind
+I get Ben to help me move some of this heavy furniture because he is as _ as an ox .,he,ox,is,old,slow,weak,strong,3,strong
+Grady raced to the car as _ as lightning .,Grady,lightning,raced,quick,loud,drunk,slow,0,quick
+Anusha is as _ as a peacock She is always looking into the mirror .,Anusha,peacock,is,vain,yellow,modest,white,0,vain
+Learning to bake a cake is as _ as ABC .,Learning,ABC,is,quick,easy,important,hard,1,easy
+He was as _ as a cucumber . .,He,cucumber,was,warm,cool,gay,hot,1,cool
+The candy is as _ as a rock .,candy,rock,is,easy,soft,white,hard,3,hard
+His hair was as _ as a basket of oranges .,hair,basket,was,light,dark,bright,dull,2,bright
+The clock struck midnight and the sky was as _ as ink .,sky,ink,was,high,clear,black,red,2,black
+"When Brandon 's little brother stepped on his cape and ripped it , Brandon was as _ as a hornet .",Brandon,hornet,was,angry,hot,dangerous,cool,0,angry
+my teacher is as _ as a clown .,teacher,clown,is,helpful,silly,funny,fun,2,funny
+The twins Peter and Jason are as _ as two peas They are twins .,twins,peas,are,brown,identical,alike,sentimental,2,alike
+He was as _ as a duck .,He,duck,was,dead,lame,convincing,cool,1,lame
+The bruise on George 's foot felt as _ as the ocean .,bruise,ocean,felt,soft,purple,red,blue,3,blue
+Casey is as _ as a cupcake .,Casey,cupcake,is,hot,positive,bitter,sweet,3,sweet
+They are as _ as night and day .,They,day,are,normal,alike,different,like,2,different
+The lake is as _ as glass right now .,lake,glass,is,sharp,clear,small,green,1,clear
+the night was as _ as coal .,night,coal,was,black,hot,brown,cold,0,black
+The woodcutter 's eyes were as _ as the moon when he saw the hidden treasure in the cave .,eyes,moon,were,bright,full,green,dark,0,bright
+That car is as _ as a cherry .,car,cherry,is,sweet,green,red,black,2,red
+The boy was as _ as a rocket as he sped by on his bicycle .,boy,rocket,was,good,slow,dangerous,fast,3,fast
+The streetlights were as _ as stars .,streetlights,stars,were,reflective,dark,bright,dull,2,bright
+Her temper was as _ as a bomb .,temper,bomb,was,explosive,destructive,dangerous,dead,0,explosive
+Jan dove into the water as quickly and as _ as a seal .,Jan,seal,dove,dead,destructive,dangerous,effortlessly,3,effortlessly
+The English teacher 's explanation was as _ as mud .,explanation,mud,was,free,deep,unclear,clear,3,clear
+The girl was as _ as a lamb .,girl,lamb,was,rough,gentle,harsh,rude,1,gentle
+the exam was as _ as a piece of cake .,exam,cake,was,hard,quick,easy,fun,2,easy
+We should as Lina for her advice as she is as _ as an owl .,she,owl,is,cunning,pretty,hot,wise,3,wise
+He is as _ as a fox .,He,fox,is,smart,stupid,bright,gay,0,smart
+I 'm as _ as a bear that just work up from its winter sleep .,I,bear,'m,black,sleepy,sick,polar,1,sleepy
+Her hands were as _ as ice after the hayride .,hands,ice,were,cool,blue,hot,cold,3,cold
+The band played as _ as a sonic boom .,band,boom,played,sonic,loud,fun,quiet,1,loud
+The boy was as _ as lightning in the race .,boy,lightning,was,small,hot,quick,slow,2,quick
+The room is as _ as a furnace Quickly switch on the fan .,room,furnace,is,cold,freezing,hot,warm,2,hot
+Ellana 's hair is as _ as the sky at midnight .,hair,sky,is,dark,brown,blue,bright,0,dark
+"To be a good dancer , you should be as _ as swan .",you,swan,be,clumsy,beautiful,graceful,awkward,2,graceful
+How will we find our way ? The direction to the hall are as _ as mud .,direction,mud,are,straight,free,clear,opaque,2,clear
+Sara was as _ as a lamb .,Sara,lamb,was,modest,full,gentle,roast,0,modest
+My new baby brother is as _ as a button .,brother,button,is,cute,tiny,hot,red,0,cute
+His bag is as _ as lead because it has many books .,bag,lead,is,heavy,light,dense,lightweight,0,heavy
+"After the ball was run over by the car , it was as _ as a pancake .",ball,pancake,was,sharp,white,flat,spherical,2,flat
+Max 's personality is as _ as a box of crayons .,personality,box,is,open,colorful,complex,fun,1,colorful
+Ted was as _ as a mouse in a room full of cats .,Ted,mouse,was,slow,nervous,stupid,dead,1,nervous
+My sister is as _ as a schoolgirl hen she meets strangers .,sister,hen,is,fun,blue,red,shy,3,shy
+rita is as _ as a mouse . she does not like to talk .,rita,mouse,is,slow,loud,pretty,quiet,3,quiet
+"After doing my chores , the house was as _ as a whistle .",house,whistle,was,clean,public,dirty,sharp,0,clean
+The directions were as _ as mud .,directions,mud,were,clear,free,unclear,deep,0,clear
+That explanation was as _ as mud .,explanation,mud,was,clear,muddy,free,unclear,0,clear
+Zando is as _ as a bear .,Zando,bear,is,evil,thirsty,hungry,dangerous,2,hungry
+the water in the river is as _ as crystal .,water,crystal,is,fresh,pure,unclear,clear,3,clear
+today reena is as _ as a bee .,reena,bee,is,bored,idle,busy,free,2,busy
+The poor puppy is as _ as rake because no one feeds it .,puppy,rake,is,thick,soft,thin,fat,2,thin
+"After Christian 's ball was run over by the car , it was as _ as a pancake .",ball,pancake,was,sharp,white,flat,spherical,2,flat
+She is as _ as a picture .,She,picture,is,white,sharp,fun,pretty,3,pretty
+The room is as _ as night so I could not see anything .,room,night,is,peaceful,empty,dark,light,2,dark
+My mom can be as _ as a volcano when I do n't do my chores on time .,mom,volcano,be,extinct,dormant,fiery,hot,2,fiery
+The sand under my feet is as _ as silk .,sand,silk,is,smooth,sleek,soft,rough,0,smooth
+"on his first day of school , jacob is as _ as a cucumber .",jacob,cucumber,is,hot,warm,cool,dead,2,cool
+"Sunday is cleaning day . By the time we 're done , the house is as _ as a whistle .",house,whistle,is,sharp,low,dirty,clean,3,clean
+The road is as _ as an arrow .,road,arrow,is,pointed,crooked,sharp,straight,3,straight
+The street leading to the bus terminal was as _ as the grave . .,street,grave,was,silent,grave,weak,unmarked,0,silent
+That box is as _ as a feather .,box,feather,is,sad,weak,open,light,3,light
+The teacher is as _ as a lion when he is angry .,teacher,lion,is,white,wild,fierce,dangerous,2,fierce
+The lake was as _ as glass .,lake,glass,was,sharp,broken,green,clear,3,clear
+i am as _ as a cheetah .,i,cheetah,am,quick,late,thirsty,slow,0,quick
+Maria was as _ as a swan .,Maria,swan,was,solitary,clumsy,awkward,graceful,3,graceful
+Have you ever felt as _ as a hippo ?,you,hippo,felt,thirsty,dangerous,soft,hungry,3,hungry
+The snow was as _ as a blanket .,snow,blanket,was,thin,sparse,soft,thick,3,thick
+the baby rabbit was as _ as mouse .,rabbit,mouse,was,small,long,giant,large,0,small
+She was as _ as ice .,She,ice,was,blue,hot,cool,cold,3,cold
+Your explanation is as _ as mud .,explanation,mud,is,free,muddy,deep,clear,3,clear
+The children were as _ as gold . The teacher was very pleased with them .,children,gold,were,evil,pure,good,bad,2,good
+Mrs . Amos was as _ as a lark when all of her students made A 's on the test .,Amos,lark,was,sad,happy,interested,unhappy,1,happy
+The children were as _ as a mouse .,children,mouse,were,quiet,loud,innocent,slow,0,quiet
+The kids on the sleds sped down the snowy hill as _ as race cars .,kids,cars,sped,loud,fast,slow,dangerous,1,fast
+Jerwin is as _ as a lion .,Jerwin,lion,is,afraid,brave,coward,dangerous,1,brave
+The boy 's hat was as _ as the grass .,hat,grass,was,green,soft,dry,brown,0,green
+My little sister works as _ as a turtle .,sister,turtle,works,fun,quick,slow,fast,2,slow
+Imraan was running around as _ as a bee .,Imraan,bee,running,busy,yellow,idle,bored,0,busy
+The bread was as _ as nails .,bread,nails,was,hard,sharp,soft,flat,0,hard
+I was as _ as a dog on the day of the test .,I,dog,was,loyal,sick,alive,healthy,1,sick
+"when school finished , i felt as _ as a bird .",i,bird,felt,free,beautiful,soft,bound,0,free
+The brook gurgled as _ as a well - fed baby .,brook,baby,gurgled,hungry,thirsty,happily,hard,2,happily
+Croaking frogs sounded as _ as a marching band .,frogs,band,sounded,colorful,wild,small,large,3,large
+sue is as _ as a picture .,sue,picture,is,pretty,green,loud,colorful,0,pretty
+"you ca n't break that chair , it 's as _ as brick .",it,brick,'s,white,solid,hard,soft,2,hard
+She is as _ as a bee .,She,bee,is,pretty,busy,hot,bored,1,busy
+My grandfather is as _ as a bat without his glasses .,grandfather,bat,is,fast,dead,blind,black,2,blind
+the water in the pond was as _ as crystal .,water,crystal,was,transparent,pure,fresh,clear,3,clear
+my house is as _ as a star .,house,star,is,clean,dirty,expensive,public,0,clean
+the top model is as _ as toothpick .,model,toothpick,is,sharp,skinny,expensive,oversized,1,skinny
+Joe raced the car as _ as lightning .,Joe,lightning,raced,quick,hot,slow,lazy,0,quick
+He ate all the fruits because they are as _ as honey .,fruits,honey,are,warm,green,sweet,bitter,2,sweet
+"On that winter morning , Grace 's hands were as _ as ice .",hands,ice,were,cold,blue,hot,cool,0,cold
+The sun is not shining today . The sky is as _ as midnight .,sky,midnight,is,bright,blue,dark,clear,2,dark
+"Without his glasses , the man was as _ as a bat .",man,bat,was,black,blind,gay,fast,1,blind
+He will not change his mind no matter how hard you persuade him . He is as _ as a mule .,He,mule,is,stubborn,poor,dense,slow,0,stubborn
+Your face is as _ as a fire engine .,face,engine,is,white,pale,red,heavy,2,red
+His explanation was as _ as mud .,explanation,mud,was,unclear,clear,free,muddy,1,clear
+Mrs . Oakes ' voice on the intercom was as _ as thunder .,voice,thunder,was,loud,sound,low,soft,0,loud
+That math problem was as _ as A-B-C .,problem,A-B-C,was,hard,quick,easy,common,2,easy
+She has been as _ as a bee all day preparing for the grand party .,She,bee,been,pretty,idle,busy,bored,2,busy
+Mr . Ranjit was as _ as cucumber even when a fire broke out in his house .,Ranjit,cucumber,was,cool,warm,stupid,hot,0,cool
+Jason 's hands were as _ as mud .,hands,mud,were,clean,dirty,sticky,bare,1,dirty
+We are as _ as two peas in a pod .,We,peas,are,alone,eyed,sentimental,alike,3,alike
+The little boy stood as _ as a soldier .,boy,soldier,stood,straight,crooked,still,bent,0,straight
+Jim felt as _ as an owl when he got his test back .,Jim,owl,felt,wise,stubborn,abrupt,grey,0,wise
+The successful businesswoman is as _ as a peacock . Her new collaboration with an international company in London .,businesswoman,peacock,is,blue,humble,proud,yellow,2,proud
+The river that is as _ as crystal has attracted many tourists to swim there .,river,crystal,is,clear,opaque,transparent,pure,0,clear
+My 80 years - old grandpa 's hair has all fallen out . He is as _ as an egg .,He,egg,is,gay,bald,green,yellow,1,bald
+This waiting room is as _ as a freezer box !,room,box,is,light,hot,empty,cold,3,cold
+Their words were as _ as knives .,words,knives,were,wooden,sharp,pointed,harsh,3,harsh
+"When she saw the kids begin to have a glitter fight , the teacher leapt across the room as _ as a cheetah .",teacher,cheetah,leapt,fast,long,bad,sharp,0,fast
+Please help him . He ca n't see anything without his glasses . He is as _ as a bat .,He,bat,is,drunk,black,blind,gay,2,blind
+The thunder was as _ as fireworks .,thunder,fireworks,was,loud,beautiful,quiet,soft,0,loud
+he was as _ as a mouse when he crept into the room .,he,mouse,was,quiet,loud,noisy,slow,0,quiet
+The villagers ask the old man for advice because he is as _ as an owl .,he,owl,is,wise,grey,happy,dead,0,wise
+Her eyes were as _ as the stars .,eyes,stars,were,dark,bright,wide,green,1,bright
+You were as _ as a lion going into that haunted mansion .,You,lion,were,wild,brave,dangerous,white,1,brave
+The rose petals were as _ as delicate silk .,petals,silk,were,smooth,organic,hard,soft,3,soft
+Encik Jamal has been driving all day and he does n't stop for lunch . He is now as _ as a hunter .,He,hunter,is,yellow,hard,red,hungry,3,hungry
+Sarojini is as _ as a dove . She will not hurt anyone .,Sarojini,dove,is,harsh,rude,graceful,gentle,3,gentle
+Kim 's tongue felt as _ as a bone .,tongue,bone,felt,sweet,dry,wet,sharp,1,dry
+She is as _ as a fox .,She,fox,is,cunning,hot,pretty,beautiful,0,cunning
+I 've been as _ as a bee all day cleaning my house .,I,bee,been,bored,busy,hungry,idle,1,busy
+My dad is as _ as a bee .,dad,bee,is,bored,free,busy,idle,2,busy
+Her eyes were as _ as the ocean .,eyes,ocean,were,red,green,brown,blue,3,blue
+my mum never shouts at me . she is as _ as a lamb .,she,lamb,is,harsh,rough,rude,gentle,3,gentle
+She is as _ as a kitten .,She,kitten,is,cute,ugly,beautiful,adorable,0,cute
+Madam Kwan bought a lot of daily necessities at the supermarket . The shopping bags are as _ as lead .,bags,lead,are,strong,heavy,light,dense,1,heavy
+I could answer the exam questions in less than an hour . It was as _ as ABC .,It,ABC,was,hard,easy,quick,dangerous,1,easy
+The car was driving as _ as a snail .,car,snail,driving,quick,slow,fast,crazy,1,slow
+The Shokpa 's body is as _ as a mountain .,body,mountain,is,big,beautiful,whole,little,0,big
+his promise is as _ as gold . we can rely on him .,promise,gold,is,valuable,pure,good,bad,2,good
+Leighton looked as _ as a princess in her costume .,Leighton,princess,looked,bad,evil,pretty,important,2,pretty
+Venorica was as _ as a mouse . She cried loudly when all the lights went off .,Venorica,mouse,was,stupid,shy,brave,slow,1,shy
+This bagel is as _ as a rock .,bagel,rock,is,white,easy,hard,soft,2,hard
+It 's as _ as ABC .,It,ABC,'s,easy,uneasy,quick,hard,0,easy
+I 'm as _ as a mouse .,I,mouse,'m,noisy,loud,quiet,slow,2,quiet
+Mason was as _ as a cheetah on wheels .,Mason,cheetah,was,fast,active,green,slow,0,fast
+The ocean 's waves were as _ as a roring lion .,waves,lion,were,wild,quiet,sound,loud,3,loud
+Bill 's mood is as _ as vinegar .,mood,vinegar,is,sour,sticky,bitter,foul,0,sour
+Your smile is as _ as the sun .,smile,sun,is,hot,catching,bright,shining,2,bright
+That man is as _ as a giant . He is selected for the basketball team .,man,giant,is,tall,large,old,short,0,tall
+Hebe 's hair is long and as _ as silk .,hair,silk,is,sleek,rough,soft,smooth,3,smooth
+he is as _ as lion .,he,lion,is,coward,brave,wild,afraid,1,brave
+His teeth are as _ as pearls .,teeth,pearls,are,white,yellow,blue,pale,0,white
+The baby cried as _ as train .,baby,train,cried,old,loud,big,little,1,loud
+My brother is as _ as a fox when it comes to getting out of doing chores .,brother,fox,is,shy,bold,red,confident,0,shy
+this girl is as _ as snow .,girl,snow,is,fresh,hot,white,beautiful,2,white
+The voice of the principal over the intercom was as _ as thunder and startled all of the children .,voice,thunder,was,low,quiet,loud,soft,2,loud
+"Allow me , it 's as _ as ABC .",it,ABC,'s,hard,easy,uneasy,quick,1,easy
+The water well is as _ as a bone .,well,bone,is,wet,hard,cold,dry,3,dry
+The performer on the stage is as _ as a monkey .,performer,monkey,is,talented,playful,agile,cunning,2,agile
+Mary is as _ as pie .,Mary,pie,is,pretty,bitter,sweet,warm,2,sweet
+The cake was as _ as a snowflake .,cake,snowflake,was,warm,dry,easy,light,3,light
+The lettuce was as _ as an early fall morning .,lettuce,morning,was,beautiful,green,crisp,pleasant,2,crisp
+Adam is just recovered from his illness . He is as _ as a sheet .,He,sheet,is,pale,blue,dark,large,0,pale
+rachel is as _ as a bear now because she skipped her lunch .,rachel,bear,is,hungry,hot,thirsty,drunk,0,hungry
+She 's as _ as a button .,She,button,'s,red,bright,dark,green,1,bright
+Jayden was as _ as a wet hen .,Jayden,hen,was,happy,mad,red,orange,1,mad
+My grandma says I am as _ as pie .,I,pie,am,bitter,sweet,warm,dry,1,sweet
+The class was as _ as a mouse .,class,mouse,was,slow,loud,quiet,dull,2,quiet
+jack is really tall . he is as _ as a mountain .,he,mountain,is,small,big,tall,dead,2,tall
+The water was as _ as crystal .,water,crystal,was,deep,clear,pure,fresh,1,clear
+your hands are as _ as ice .,hands,ice,are,cold,hot,cool,blue,0,cold
+My grandmother loves reading and she can answer any questions I ask her . She is as _ as an owl .,She,owl,is,cunning,hot,foolish,wise,3,wise
+The car was as _ as a cheetah .,car,cheetah,was,beautiful,hot,pretty,fast,3,fast
+The cookies were so overcooked that they were as _ as rocks .,cookies,rocks,were,soft,hard,solid,rigid,1,hard
+Usain Bolt runs as _ as a cheetah .,Bolt,cheetah,runs,fast,small,soft,heavy,0,fast
+William was as _ as a mouse . He cried loudly when all the lights went off .,William,mouse,was,slow,brave,stupid,shy,3,shy
+She was as _ as a button .,She,button,was,green,pretty,dark,bright,3,bright
+My teeth are as _ as the knives .,teeth,knives,are,pointed,sharp,flat,dull,1,sharp
+Her hair is as _ as coal .,hair,coal,is,black,smooth,cold,hot,0,black
+I 'm feeling as _ as a dog .,I,dog,feeling,sick,bad,guilty,healthy,0,sick
+Naomi is a proficient swimmer . She swims like a fish ! Her arms are as _ as rocks from swimming laps in the pool .,arms,rocks,are,soft,solid,hard,rigid,2,hard
+He was as _ as a cucumber .,He,cucumber,was,warm,gay,cool,hot,2,cool
+jessie swam as _ as a fish .,jessie,fish,swam,happy,warm,furry,smoothly,3,smoothly
+Dad 's hand was as _ as a rock .,hand,rock,was,solid,heavy,hard,hollow,0,solid
+His character was as _ as brick .,character,brick,was,heavy,hard,solid,hollow,2,solid
+bob will help you carry that heavy box up the stairs . he 's as _ as an ox .,he,ox,'s,fast,slow,weak,strong,3,strong
+Those palace guards barely moved . They stood as _ as a statue .,They,statue,stood,still,fast,slow,dead,0,still
+Aishah is as _ as a rake . She does not eat well .,Aishah,rake,is,thin,thick,fat,sharp,0,thin
+I am as _ as a bear .,I,bear,am,thirsty,sick,brown,hungry,3,hungry
+Eleanor felt as _ as a feather as she jumped out of bed .,Eleanor,feather,felt,fun,huge,light,dangerous,2,light
+The fishmonger was as _ as a bull when he realised that his neighbour 's cat was stealing his fish every day .,fishmonger,bull,was,ugly,yellow,angry,strong,2,angry
+The desert sand was as _ as the setting sun .,sand,sun,was,yellow,orange,ugly,slow,1,orange
+The computers at school are as _ as dinosaurs .,computers,dinosaurs,are,new,young,old,early,2,old
+The street was as _ as a stove .,street,stove,was,freezing,chilled,cold,hot,3,hot
+The bus is as _ as a tortoise . We may not be there on time .,bus,tortoise,is,fast,slow,stupid,quick,1,slow
+Dona 's vision was as _ as a hawk 's .,vision,hawk,was,dull,sharp,blurred,dim,1,sharp
+The road was as _ as an ice rink !,road,rink,was,sticky,off,slippery,flat,2,slippery
+My dad is as _ as an ox .,dad,ox,is,strong,slow,fast,weak,0,strong
+She is as _ as candy .,She,candy,is,sweet,bitter,pretty,sour,0,sweet
+Anita was as _ as a baby because no one is willing to help her in the Science project .,Anita,baby,was,dead,helpless,miserable,innocent,1,helpless
+My room is as _ as a pigsty .,room,pigsty,is,filthy,green,rotten,pristine,0,filthy
+when i went outside i felt as _ as a bird .,i,bird,felt,free,heavy,bound,beautiful,0,free
+The bruise on Jack 's foot felt as _ as an elephant .,bruise,elephant,felt,big,sized,deep,good,0,big
+do n't expect that she 'll change her mind . she 's as _ as a mule .,she,mule,'s,dense,ugly,stubborn,hot,2,stubborn
+You should not believe everything he says as he is as _ as a fox .,he,fox,is,drunk,happy,gay,cunning,3,cunning
+My grandpa is as _ as an owl .,grandpa,owl,is,alive,wise,foolish,grey,1,wise
+Your smile is as _ as the sun .,smile,sun,is,catching,warm,hot,bright,3,bright
+His mind is as _ as a samurai 's sword .,mind,sword,is,dim,sharp,dull,clear,1,sharp
+"if i were you , i 'd never lend him such a lot of money . he 's as _ as an eel .",he,eel,'s,cold,sticky,slippery,ugly,2,slippery
+Ian is as _ as the Empire State Building .,Ian,Building,is,tall,successful,funny,old,0,tall
+The new branded smart phone is so thin . It is as _ as a pancake .,phone,pancake,is,sharp,mobile,flat,expensive,2,flat
+The answer to the problem is as _ as crystal .,answer,crystal,is,unclear,clear,transparent,pure,1,clear
+the living room was painted as _ as snow .,room,snow,painted,beautiful,square,blue,white,3,white
+The beef was as _ as leather . I could not chew it .,beef,leather,was,tough,durable,opaque,solid,0,tough
+Ms . Shook is as _ as a bear when she has not eaten lunch .,Shook,bear,is,hungry,thirsty,bad,cold,0,hungry
+"When my great uncles drives , he is as _ as a turtle .",he,turtle,is,happy,fast,slow,quick,2,slow
+That student was as _ as sugar .,student,sugar,was,bitter,sweet,sour,dry,1,sweet
+Ming Hua lifted the box easily . It was as _ as a feather .,It,feather,was,young,smart,light,low,2,light
+The children were as _ as snow falling .,children,snow,were,quiet,loud,noisy,active,0,quiet
+That girl is as _ as nails .,girl,nails,is,tough,weak,soft,sharp,0,tough
+He is as _ as a rail .,He,rail,is,thick,thin,drunk,fat,1,thin
+the soldier is as _ as a lion .,soldier,lion,is,dangerous,brave,coward,afraid,1,brave
+Liam dove into the water as _ as an otter .,Liam,otter,dove,effortlessly,afraid,white,dangerous,0,effortlessly
+The apple pie is as _ as honey .,pie,honey,is,green,dry,sweet,warm,2,sweet
+I 'm as _ as a wolf .,I,wolf,'m,thirsty,dangerous,sick,hungry,3,hungry
+My little brother is as _ as pie .,brother,pie,is,sweet,warm,easy,bitter,0,sweet
+your school bag is as _ as giant .,bag,giant,is,big,little,tall,light,0,big
+The Shokpa 's face is as _ as hills .,face,hills,is,old,young,alive,new,0,old
+But keep quiet and remain as _ as a cucumber or you will be sorry .,you,cucumber,remain,cool,warm,hot,fun,0,cool
+Tammy is as _ as a clown .,Tammy,clown,is,funny,pious,silly,unhappy,2,silly
+That trip was as _ as a cheetah .,trip,cheetah,a,fun,fast,cool,hot,1,fast
+Zero sat as _ as a statue .,Zero,statue,sat,still,hot,cool,innocent,0,still
+i ca n't go to work today . i 'm as _ as a dog .,i,dog,'m,fit,healthy,hot,sick,3,sick
+Our classroom is as _ as a zoo today .,classroom,zoo,is,noisy,ferocious,religious,chaotic,3,chaotic
+Talia 's eyes were as _ as the sun .,eyes,sun,were,hot,bright,green,warm,1,bright
+Alvin could not lift the bag because it was as _ as an elephant .,it,elephant,was,fast,slow,light,heavy,3,heavy
+Her face is as _ as sheet because she is not feeling well .,face,sheet,is,pale,large,smooth,soft,0,pale
+Her hair is as _ as coal .,hair,coal,is,smooth,cold,black,hot,2,black
+The books were as _ as a whale .,books,whale,were,expensive,heavy,light,beautiful,1,heavy
+that tallest girl in our class is as _ as a giraffe .,girl,giraffe,is,tall,beautiful,old,short,0,tall
+The champion for the 100 - metre race runs as _ as a deer .,champion,deer,runs,strong,little,slow,fast,3,fast
+They are as _ as two peas in a pod .,They,peas,are,alike,eyed,sentimental,different,0,alike
+She is as _ as a mouse .,She,mouse,is,quiet,loud,noisy,slow,0,quiet
+the pavement is as _ as glass .,pavement,glass,is,opaque,sticky,slippery,fragile,2,slippery
+He is as _ as a fox .,He,fox,is,stupid,bright,gay,smart,3,smart
+Mary had a little lamb . Its wool is as _ as snow .,wool,snow,is,beautiful,blue,white,fine,2,white
+The house is as _ as a whistle .,house,whistle,is,sharp,public,dirty,clean,3,clean
+You are as _ as a hippo !,You,hippo,are,extinct,thirsty,hungry,dangerous,2,hungry
+Ken was as _ as a lion . He saved the girl from drowning .,Ken,lion,was,afraid,wild,brave,dangerous,2,brave
+The feather of the swan is as _ as snow .,feather,snow,is,white,soft,beautiful,blue,0,white
+The puppy was as _ as a cheetah .,puppy,cheetah,was,heavy,fast,soft,light,1,fast
+she is as _ as an angel .,she,angel,is,little,innocent,guilty,ugly,1,innocent
+The student was as _ as a cucumber as she gave her speech .,student,cucumber,was,curious,cool,warm,lazy,1,cool
+He is as _ as dirt .,He,dirt,is,poor,free,rich,packed,0,poor
+Adib was as _ as a toad as he never lifted a finger to help with chores at home or at school .,Adib,toad,was,productive,ugly,lazy,active,2,lazy
+"When the little girl dances , she is as _ as a swan .",she,swan,is,clumsy,cunning,awkward,graceful,3,graceful
+Dad 's snoring was as _ as a train .,snoring,train,was,big,bad,quiet,loud,3,loud
+my uncle is as _ as a giraffe .,uncle,giraffe,is,old,friendly,tall,short,2,tall
+You are as _ as a button .,You,button,are,tiny,cute,red,hot,1,cute
+jane can easily lift the box . It is as _ as feather .,box,feather,is,hot,green,light,tiny,2,light
+The bright ornament was as _ as and red as Rudolph 's nose .,ornament,nose,was,hot,round,tiny,green,1,round
+She is as _ as a ghost .,She,ghost,is,pale,white,ugly,pretty,0,pale
+Boy was as _ as a rocket as he sped by on his bicycle .,Boy,rocket,was,pretty,fast,beautiful,hot,1,fast
+Salman is as _ as death after seeing the phython .,Salman,death,is,sad,drunk,pale,dark,2,pale
+My dog is as _ as dirty socks .,dog,socks,is,certain,responsible,sing,foul,3,foul
+The prefect is as _ as a lion .,prefect,lion,is,wild,senior,urban,bold,3,bold
+He is as _ as a bat without his glasses .,He,bat,is,black,gay,blind,fast,2,blind
+The beggar does not have a place to stay or food to eat . He is as _ as a church mouse .,He,mouse,is,rich,old,poor,small,2,poor
+That teacher was as _ as dishwater .,teacher,dishwater,was,sharp,dull,bright,shiny,1,dull
+Roman is as _ as an ox .,Roman,ox,is,fast,strong,weak,slow,1,strong
+"Despite eating an entire bag of Halloween candy , Mary was still as _ as a rail .",Mary,rail,was,fat,thin,bloody,thick,1,thin
+the boys are as _ as puppies .,boys,puppies,are,fun,male,competitive,playful,3,playful
+the table is as _ as rock .,table,rock,is,hard,solid,flat,smooth,1,solid
+The thief was as _ as a fox because he managed to escape from the police .,thief,fox,was,common,young,dangerous,cunning,3,cunning
+You seem to have many antique stuffs in the cupboard . They must be as _ as the sun .,stuffs,sun,be,ancient,warm,heavy,modern,0,ancient
+I am as _ as a bear !,I,bear,am,sick,dangerous,thirsty,hungry,3,hungry
+do not expect he will change his mind . He 's as _ as mule .,he,mule,'s,dense,sterile,large,stubborn,3,stubborn
+My little sister is a spoil brat . She is as _ as a mule .,She,mule,is,ugly,dense,stubborn,hot,2,stubborn
+The boy was as _ as a dog that lost its bone .,boy,dog,was,friendly,happy,glad,sad,3,sad
+My mom is as _ as a mouse . she never raises her voice .,mom,mouse,is,quiet,loud,noisy,slow,0,quiet
+i did not bring my spectacles so i am as _ as bat .,i,bat,am,blind,black,fast,brown,0,blind
+wow the chocolate is as _ as sugar .,chocolate,sugar,is,dry,warm,hot,sweet,3,sweet
+I promise I wo n't wake you up when I get home . I will be as _ as a mouse .,I,mouse,be,quiet,slow,loud,noisy,0,quiet
+The street was as _ as an oven .,street,oven,was,freezing,hot,cold,chilled,1,hot
+prem runs as _ as lightning .,prem,lightning,runs,fast,fun,hot,slow,0,fast
+The frog was as _ as oil .,frog,oil,was,opaque,slippery,slick,hot,2,slick
+James ' mother was as _ as a peacock when he became a doctor .,mother,peacock,was,ashamed,proud,humble,blue,1,proud
+My uncle is eighty - six years old but he is still as _ as a fiddle . He exercises daily at the park .,he,fiddle,is,fit,humble,blue,great,0,fit
+He is as _ as a bat .,He,bat,is,fly,blind,gay,drunk,1,blind
+The boy danced as _ as a swan for the concert .,boy,swan,danced,graceful,cunning,clumsy,beautiful,0,graceful
+That trip was as _ as a cheetah .,trip,cheetah,was,fast,pretty,romantic,beautiful,0,fast
+eashen laughed as _ as thunder .,eashen,thunder,laughed,chilling,quiet,loud,soft,2,loud
+The bed was as _ as a cotton ball .,bed,ball,was,flat,soft,uncomfortable,hard,1,soft
+You are as _ as pie !,You,pie,are,bitter,sour,warm,sweet,3,sweet
+"School is over , so I 'm now as _ as a bird .",I,bird,'m,free,fly,bound,sick,0,free
+"When I woke up this morning , my house was as _ as ice .",house,ice,was,blue,cool,cold,hot,2,cold
+The servant is as _ as a dog to her master .,servant,dog,is,loyal,senior,faithful,polite,2,faithful
+The girls could see the fish swimming in the river because the water was as _ as crystal .,water,crystal,was,fresh,transparent,pure,clear,3,clear
+His heart is as _ as an ice .,heart,ice,is,hot,cool,cold,melting,2,cold
+The judge is as _ as an owl .,judge,owl,is,wise,grey,chief,foolish,0,wise
+The motion sickness hit the sailor as _ as lightning .,sickness,lightning,hit,fast,grey,wrong,good,0,fast
+The exam just now was as _ as ABC . I finished it in just 10 minutes .,exam,ABC,was,hard,easy,quick,final,1,easy
+the beggar was as _ as a wolf and ate up the food very quickly .,beggar,wolf,was,poor,stupid,thirsty,hungry,3,hungry
+My sister is very good in drawing . Her drawings are as _ as the rainbow .,drawings,rainbow,are,ugly,colorful,beautiful,bad,2,beautiful
+She was as _ as an owl .,She,owl,was,hot,smart,stupid,giant,1,smart
+The boy ate five plates of fried noodles because he was as _ as a bear .,he,bear,was,drunk,happy,hungry,thirsty,2,hungry
+betty is as _ as the wind so she will win the race .,betty,wind,is,cool,destructive,transparent,swift,3,swift
+Our pillows are as _ as clouds .,pillows,clouds,are,soft,fluffy,hard,dry,0,soft
+"In her new dress , the little girl was as _ as a button .",girl,button,was,tiny,cute,hot,beautiful,1,cute
+The judge was as _ as an owl because he made a great decision .,judge,owl,was,grey,wise,good,foolish,1,wise
+My sister is as _ as a fiddle because she walks 10 kilometers daily . .,sister,fiddle,is,good,foolish,grey,fit,3,fit
+The cookies were so overcooked that they were as _ as rocks .,cookies,rocks,were,rigid,hard,solid,soft,1,hard
+The little boy is as _ as a mouse .,boy,mouse,is,brave,slow,shy,stupid,2,shy
+His heart is as _ as lead . There simply is no alternative for him .,heart,lead,is,red,light,dense,heavy,3,heavy
+Manny 's made a bookshelf that is as _ as a puppy 's fur .,bookshelf,fur,is,smooth,shaky,rough,uneven,0,smooth
+The young boy was as _ as a lion during his doctor 's appointment .,boy,lion,was,stupid,afraid,wild,brave,3,brave
+The air felt as _ as lava .,air,lava,felt,cold,cool,hard,hot,3,hot
+I start to chop off a potato 's end which is as _ as a thumbnail .,potato,thumbnail,is,thin,narrow,long,wide,3,wide
+The lemon juice was as _ as vinegar so Jimmy added some sugar .,juice,vinegar,was,green,bloody,sour,orange,2,sour
+my brother is as _ as lion .,brother,lion,is,brave,coward,dangerous,afraid,0,brave
+The book was as _ as a rock .,book,rock,was,second,soft,easy,hard,3,hard
+The sky was as _ as ink .,sky,ink,was,high,clear,black,red,2,black
+She ate so much she became as _ as a pig .,she,pig,became,white,red,fat,blue,2,fat
+Mom was as _ as a kid on Christmas when she opened her new vacuum cleaner .,Mom,kid,was,fun,curious,silly,cunning,2,silly
+The poor child ate three bowls of rice just now . He is as _ as a wolf .,He,wolf,is,thirsty,drunk,hungry,happy,2,hungry
+"Though the athlete is in his forties , he is still as _ as monkey .",he,monkey,is,playful,gay,agile,cunning,2,agile
+The water in the pond is as _ as crystal .,water,crystal,is,fresh,clear,transparent,pure,1,clear
+"Our headmaster , Mr Chan was as _ as a lion when he was scolding his pupils for playing truant .",headmaster,lion,was,rotten,fierce,wild,dangerous,1,fierce
+"The twins look alike , but they are as _ as night and day .",twins,day,are,young,different,small,normal,1,different
+Mr . Jenkin 's hat was as _ as a pancake after I sat on it .,hat,pancake,was,white,shattered,flat,sharp,2,flat
+She sang as _ as a screaming baby .,She,baby,sang,beautiful,ugly,romantic,lovely,3,lovely
+Her face is as _ as the sunlight .,face,sunlight,is,pale,strong,bright,harsh,2,bright
+You are as _ as a cheetah !,You,cheetah,are,strong,fast,harsh,pale,1,fast
+The partygoers could n't believe how adorable the twins were . They were as _ as kittens !,They,kittens,were,cute,old,small,annoying,0,cute
+Mary was as _ as pie .,Mary,pie,was,sweet,warm,bitter,pretty,0,sweet
+The dog moved as _ as a train to catch the ball that his owner threw .,dog,train,moved,old,easy,fast,good,2,fast
+"She did not want to wake her baby up , so she was as _ as a mouse when she opened the door .",she,mouse,was,noisy,quiet,loud,slow,1,quiet
+Ali needs to do five jobs in a day . He is always as _ as a bee .,He,bee,is,yellow,busy,happy,bored,1,busy
+Lisa and her best friend could be sisters . They are as _ as two peas in a pod .,They,peas,are,sentimental,green,alike,old,2,alike
+The dinner was as _ as dust .,dinner,dust,was,romantic,grey,dry,wet,2,dry
+Mom was as _ as a kid on Christmas when she opened her vacuum cleaner .,Mom,kid,was,fun,curious,cunning,silly,3,silly
+Her skin was as _ as snow .,skin,snow,was,white,heavy,hard,beautiful,0,white
+I have so many things to do right now . I am as _ as a bee .,I,bee,am,hungry,bored,yellow,busy,3,busy
+The exam was as _ as ABC for Nora because she had studied hard and prepared well for it .,exam,ABC,was,quick,easy,hard,final,1,easy
+The candy bars were as _ as mush in Clay 's hand .,bars,mush,were,soft,green,hard,solid,0,soft
+the newborn rabbit 's fur was as _ as snow .,fur,snow,was,beautiful,white,warm,soft,1,white
+Richard walks as _ as a turtle getting to class .,Richard,turtle,walks,quick,strong,slow,fast,2,slow
+The bread was as _ as a rock !,bread,rock,was,flat,soft,white,hard,3,hard
+Mrs . Frindle is as _ as pie !,Frindle,pie,pie,sour,bitter,sweet,warm,2,sweet
+The car crash was as _ as thunder .,crash,thunder,was,loud,quiet,blue,bad,0,loud
+The flowers were as _ as thoughts of budding love .,flowers,thoughts,were,blue,pink,green,soft,3,soft
+My little sister is as _ as a mouse . She does n't like to watch horror movie .,sister,mouse,is,slow,brave,shy,stupid,2,shy
+Sarah 's hands were as _ as ice walking in the snow .,hands,ice,were,cold,hot,blue,cool,0,cold
+The sea is as _ as a crystal . We can see the fishes swimming around the coral .,sea,crystal,is,pure,clear,blue,opaque,1,clear
+The chef is as _ as a bee . He is preparing 200 bowls of noodles for the hotel guests .,chef,bee,is,busy,yellow,idle,bored,0,busy
+Mariatu was as _ as a mouse as she snuck into her sister 's room .,Mariatu,mouse,was,slow,quiet,noisy,loud,1,quiet
+He was as _ as an animal .,He,animal,was,tame,dead,curious,wild,3,wild
+People who are as _ as a bear may break the glasses and plates in the shop .,People,bear,are,lazy,competitive,selfish,clumsy,3,clumsy
+your skin is as _ as silk .,skin,silk,is,smooth,sleek,soft,rough,0,smooth
+her eyes were as _ as coal .,eyes,coal,were,black,cold,hot,green,0,black
+The tea that we drank just now was as _ as honey . So we had to add in some plain water .,tea,honey,was,warm,green,sweet,hot,2,sweet
+you were as _ as a lion .,you,lion,were,brave,afraid,wild,dangerous,0,brave
+Little John was as _ as a lamb when he was introduced to his new class in kindergarten . .,John,lamb,was,gentle,modest,delicious,full,1,modest
+Nobody likes Lisa because she is as _ as a peacock . She always boasts about how rich her parents are .,she,peacock,is,blue,proud,humble,ashamed,1,proud
+but she 's as _ as a goldfish .,she,goldfish,'s,harmless,harmful,hot,yellow,0,harmless
+The man is as _ as an ox . He can lift a table with only one hand .,man,ox,is,weak,fast,slow,strong,3,strong
+The dog is as _ as a horse .,dog,horse,is,fast,little,big,old,2,big
+My client is as _ as a newborn lamb !,client,lamb,is,innocent,gentle,legal,guilty,0,innocent
+My friends and I sold bookmarks and donated the money to an old man who was as _ as a church mouse .,man,mouse,was,fast,poor,rich,small,1,poor
+The lady is as _ as a peacock .,lady,peacock,is,sophisticated,proud,ashamed,humble,1,proud
+This bus is as _ as a snail . We may not be able to reach the airport on time .,bus,snail,is,quick,fast,slow,noisy,2,slow
+The day continued as _ as a surfboard .,day,surfboard,continued,noisy,quick,smoothly,rapid,2,smoothly
+You were as _ as a lion .,You,lion,were,brave,dangerous,afraid,wild,0,brave
+My brother was as _ as a lark when he got straight A 's in UPSR .,brother,lark,was,happy,sad,interested,unhappy,0,happy
+Maria is a kind girl . She brings happiness to everybody . She is as _ as pie .,She,pie,is,beautiful,pretty,sweet,warm,2,sweet
+The snow was as _ as a cloud .,snow,cloud,was,cold,beautiful,fresh,white,3,white
+I was as _ as a dog with two tails when receiving a gold medal from the headmaster .,I,dog,was,unhappy,happy,fun,sad,1,happy
+It has n't rained for months and the soil is as _ as a bone .,soil,bone,is,wet,dry,hard,sandy,1,dry
+"When my great uncles drives , he is as _ as a turtle .",he,turtle,is,quick,happy,fast,slow,3,slow
+Her eyes were as _ as diamonds .,eyes,diamonds,were,dull,clear,bright,green,2,bright
+Mrs Jasprit is as _ as bat without her glasses .,Jasprit,bat,is,fast,blind,black,brown,1,blind
+The test was as _ as ABC .,test,ABC,was,quick,hard,easy,dangerous,3,dangerous
+He ran as _ as lightning home when it started to rain .,He,lightning,ran,drunk,quick,slow,hot,1,quick
+Her heart is as _ as water .,heart,water,is,pure,fresh,clear,hard,0,pure
+I am as _ as a pig in mud .,I,pig,am,thirsty,happy,sad,unhappy,1,happy
+This house of cards is as _ as an oak .,house,oak,is,sturdy,hard,expensive,white,0,sturdy
+Fairus is as _ as a bear . He is always breaking things .,Fairus,bear,is,clumsy,yellow,dangerous,grey,0,clumsy
+The teacher is as _ as butter and naughty pupils are taking advantage of the situation . They do not pay attention in class .,teacher,butter,is,sticky,sweet,soft,hot,2,soft
+His scream was as _ as thunder when he hit his leg against the wall .,scream,thunder,was,long,loud,soft,quiet,1,loud
+My best friend is as _ as a mule . He just does n't listen to any advice given .,friend,mule,is,stubborn,poor,dense,beloved,0,stubborn
+"please be careful , the floor is as _ as eel .",floor,eel,is,flat,slippery,concrete,sticky,1,slippery
+The cat was as _ as cheetah .,cat,cheetah,was,alive,hard,fast,cold,2,fast
+The old car was as _ as dirt .,car,dirt,was,packed,expensive,free,cheap,3,cheap
+the road is as _ as an arrow .,road,arrow,is,pointed,crooked,straight,sharp,2,straight
+The little girl 's hair is as _ as silk .,hair,silk,is,hard,soft,smooth,thin,1,soft
+He is as _ as an ox .,He,ox,is,slow,strong,weak,fast,1,strong
+Tanya is as _ as sugar .,Tanya,sugar,is,sour,bitter,sweet,hot,2,sweet
+everyone who sat on that bench complained that it was as _ as a rock .,it,rock,was,soft,heavy,hard,easy,2,hard
+The exam was as _ as ABC for Norita because she had studied hard and prepared well for it .,exam,ABC,was,quick,easy,hard,dangerous,1,easy
+My grandma is as _ as sugar .,grandma,sugar,is,dry,sour,bitter,sweet,3,sweet
+I hardly see my father these days as he is as _ as a bee .,he,bee,is,idle,busy,happy,bored,1,busy
+my father is as _ as bee .,father,bee,is,free,idle,busy,bored,2,busy
+she exercises regularly and keeps herself as _ as a fiddle .,she,fiddle,keeps,fit,bored,small,free,0,fit
+The water in the pond was as _ as crystal .,water,crystal,was,transparent,clear,fresh,pure,1,clear
+Phineas and Ferb are as _ as a CIA agent .,Phineas,agent,are,drunk,slippery,gay,unreliable,1,slippery
+The dog is as _ as a horse .,dog,horse,is,old,little,fast,big,3,big
+Caitlin 's smile was as _ as the sea .,smile,sea,was,big,wide,narrow,open,1,wide
+She is as _ as a feather .,She,feather,is,light,dry,open,warm,0,light
+my computer is as _ as a snail . i 'm afraid i 'll have to buy a new one soon .,computer,snail,is,expensive,fast,quick,slow,3,slow
+The cooing baby was just as _ as a kitten !,baby,kitten,was,skinny,cute,adorable,little,1,cute
+Gorillas are as _ as stones .,Gorillas,stones,are,messy,innocent,patient,fuzzy,2,patient
+Mother advised my sister not to be as _ as a peacock because she is very beautiful .,sister,peacock,be,modest,yellow,colorful,vain,3,vain
+He is as _ as a monkey .,He,monkey,is,funny,like,drunk,happy,0,funny
+The fortune tellers nails were as _ as eagle talons .,nails,talons,were,low,short,brief,long,3,long
+"That summer day was so hot , the asphalt was as _ as a frying pan .",asphalt,pan,was,hot,hard,cold,flat,0,hot
+Jason is as _ as a giraffe . He towers above the rest of his classmates .,Jason,giraffe,is,tall,slow,short,successful,0,tall
+The tiger 's teeth is as _ as a razor .,teeth,razor,is,straight,dull,pointed,sharp,3,sharp
+Her hands are as _ as the ice .,hands,ice,are,cool,hot,blue,cold,3,cold
+the young girl was as _ as a lion .,girl,lion,was,afraid,wild,brave,dangerous,2,brave
+The Shokpa 's sound is as _ as a lion 's roar .,sound,roar,is,important,soft,loud,quiet,2,loud
+The thief is as _ as a fox .,thief,fox,is,gray,cunning,thief,sneak,1,cunning
+The motion sickness hit the sailor as _ as lightning .,sickness,lightning,hit,bad,fast,common,red,1,fast
+The ball was as _ as ice .,ball,ice,was,cool,blue,hot,cold,3,cold
+The queen 's heart was as _ as ice .,heart,ice,was,cool,cold,blue,hot,1,cold
+"After swimming 20 laps , William was as _ as a bear that had recently awakened from hibernation .",William,bear,was,hungry,dead,thirsty,drunk,0,hungry
+Mina is as _ as death ecause she is not feeling well .,Mina,death,is,green,pale,yellow,dark,1,pale
+The angry child was as _ as a roaring elephant .,child,elephant,was,fast,loud,quiet,wild,1,loud
+"the weather is so hot , as _ as hell .",weather,hell,is,hot,warm,mild,cold,0,hot
+she is as _ as a snail .,she,snail,is,quick,fast,pretty,slow,3,slow
+His face was as _ as a beet .,face,beet,was,angry,yellow,red,green,2,red
+He is as _ as his older brother .,He,brother,is,tall,elder,old,short,0,tall
+"After the ball was run over by the car , it was as _ as a pancake .",ball,pancake,was,white,spherical,flat,sharp,2,flat
+He is as _ as a raccoon .,He,raccoon,is,wild,dead,tame,drunk,0,wild
+The waxed floor was as _ as an ice rink .,floor,rink,was,slippery,sticky,dirty,wet,0,slippery
+the stuffed animal was as _ as cloud .,animal,cloud,was,hard,soft,white,loud,1,soft
+The clouds were as _ as sheep .,clouds,sheep,were,white,fluffy,beautiful,grey,0,white
+"In the days before Christmas , the kids were as _ as candy , hoping to end up on Santa 's good list .",kids,candy,were,pink,sweet,lazy,bitter,1,sweet
+Your stomach is as _ as an elephant .,stomach,elephant,is,big,full,little,sized,0,big
+Mary 's cheeks were as _ as a tomato when she forgot her lines during the school play .,cheeks,tomato,were,red,green,sweet,pink,0,red
+The dog was as _ as an elephant .,dog,elephant,was,old,big,fast,little,1,big
+That math problem was as _ as A-B-C .,problem,A-B-C,was,quick,common,easy,hard,2,easy
+Mimi was as _ as a ghost when she saw a black figure inside her bedroom .,Mimi,ghost,was,red,white,black,green,1,white
+My brother is as _ as a pig .,brother,pig,is,elder,pink,green,stubborn,3,stubborn
+my dog 's fur is as _ as cloud .,fur,cloud,is,white,soft,warm,hard,1,soft
+The dogs fur was as _ as coal .,fur,coal,was,cold,soft,black,hot,2,black
+The guards in front of the palace gate barely moved . They stood as _ as a statue .,They,statue,stood,cold,still,hot,warm,1,still
+Ali is sick and he is resting in his bed . His face is as _ as a sheet .,face,sheet,is,soft,pale,blue,large,1,pale
+The bruise on Cillian 's foot felt as _ as an elephant .,bruise,elephant,felt,deep,sized,big,good,2,big
+Aaron was thankful he had brought his flashlight along with him when he realized the night was as _ as coal .,night,coal,was,black,brown,cold,hot,0,black
+The contract was as _ as the ground .,contract,ground,was,flat,hollow,solid,hard,2,solid
+This is in a society that believes a thought is as _ as the deed .,thought,deed,is,legal,real,imaginary,fake,1,real
+"The dialogue is as _ as the characters , with a lot of vernacular that is specific to a certain era in New Orleans .",dialogue,characters,is,fun,funny,colorful,complex,2,colorful
+"Unfortunately , the main character ( Andrea Sachs ) is as _ as flat soda .",character,soda,is,complex,sticky,bland,sweet,2,bland
+The Cat Empire is truly an original band in a time when true originality is as _ as the raw talent they possess !,originality,talent,is,available,scarce,abundant,common,1,scarce
+"The storyline , however sparse , is as _ as the mathematics - albeit quite nineteenth-century'ish in tone .",storyline,mathematics,is,boring,interesting,fun,useful,1,interesting
+Huether's and McCance's book is as entertaining and _ as a root canal .,book,canal,is,expensive,painful,noisy,deep,1,painful
+"If all his work is as _ as this enchanting story , I'm hooked on MacDonald .",work,story,is,good,fun,funny,bad,0,good
+"The words of the narrator are as _ as his sight , and he describes for pages and pages the dialogues and behaviours that take place during such encounters .",words,sight,are,few,reflective,thorough,thrilling,2,thorough
+the day was as _ as a flame of a candle .,day,flame,was,perfect,wrong,modern,imperfect,0,perfect
+The quality of the printing and editing is almost as _ as the absurdity of the unsubstantiated claims with which the two writers fill page after page .,quality,absurdity,is,amusing,funny,annoying,useful,2,annoying
+"Jazz and her twin , Jess , are as _ as night and day .",twin,day,are,normal,single,different,bright,2,different
+Chain is as _ as its weakest link,Chain,link,is,heavy,strong,new,weak,1,strong
+"Mama May lived where the earth met the sky , and her house was as _ as the prairie .",house,prairie,was,thin,wide,big,narrow,1,wide
+"The murder story was not as _ as the glimpses into the society of the time , but the author gives you a well-rounded view of both the top and bottom segments of New York .",story,glimpses,was,interesting,sharp,funny,boring,0,interesting
+realism is as _ as it's protagonist,realism,protagonist,is,mute,funny,creative,entertain,0,mute
+"Afterwards , your pieces are almost as _ as sunshine .",pieces,sunshine,are,warm,dark,dull,bright,3,bright
+"His own death would give us the freedom to see inside his life , inside his journals where his ability to place his adventures on the page is as _ as any assemblage artist that comes to mind .",ability,artist,is,artistic,fascinating,useful,creative,1,fascinating
+"For a brief moment , in the pulse of her flesh all Lucas Corso's previous deaths came to life , as if brought by the current of a dark , slow river whose waters were as _ as varnish . """,waters,varnish,were,shallow,thick,thin,sparse,1,thick
+Often the explanations are as _ as mud .,explanations,mud,are,muddy,clear,free,unclear,1,clear
+"As you progress , your ankles become as _ as rocket boosters and your feet will act as mini-trampolines .",ankles,boosters,become,powerless,solid,powerful,dangerous,2,powerful
+"I think the appeal is that the stories are about things young children can relate to , and often have experience of , and the hapless sheep find the world as _ as little ones often do .",sheep,ones,find,dense,new,difficult,surprising,3,surprising
+"CONSTANTINE , FOR TANITH Here in the moonlight , raise your sword and dance : Edges strike notes as _ as any star , Sweet crystal clarity no blood could mar , Meet me in war or love , and take this chance .",Edges,star,strike,bright,dark,loud,sharp,0,bright
+"First went our fat , and after the leane , Next at our selves they draw their Skeene ; Our Market being spoiled thus on the Land , And troubles increase as _ as the sand .",troubles,sand,increase,thin,sparse,thick,soft,2,thick
