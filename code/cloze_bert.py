@@ -20,7 +20,6 @@ def set_random_seed(seed):
     torch.backends.cudnn.deterministic = True
 
 def cloze_test(data):
-
     text_list = []
     candidates_list = []
     gt_list = []
