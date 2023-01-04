@@ -1,0 +1,9 @@
+python==3.6.13
+torch==1.8.1+cu111
+torchvision==0.9.1+cu111
+transformers==4.18.0
+sklearn==0.24.2
+wandb==0.12.21
+numpy==1.19.5
+pandas==1.1.5
+tqdm==4.62.3
